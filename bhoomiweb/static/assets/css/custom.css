@@ -1,0 +1,23 @@
+.navbar{min-height:105px !important;}
+.navbar-brand{padding:0 !important;height:90px !important;;line-height:90px !important;}
+.navbar-toggle{margin-top:61.5px !important;padding:9px 10px !important;}
+@media (min-width:768px){.navbar-nav > li > a{padding-top:31.5px !important;padding-bottom:31.5px !important;line-height:60px !important;}
+}
+.img-center{margin:0 auto;}
+.no-margin{margin:0 !important;}
+.icon-medium{font-size:25px;vertical-align:middle;}
+.social-icons .fa{padding:12px 0;font-size:30px;width:50px;height:50px;text-align:center;text-decoration:none;}
+.social-icons .fa:hover{opacity:0.7;background:#3B5998;}
+.social-icons .fa-facebook{background:#333;color:white;}
+.social-icons .fa-twitter{background:#333;color:white;}
+.social-icons .fa-instagram{background:#333;color:white;}
+.thine-pad{padding:50px 0 70px 0;}
+.thine-pad-btm{padding:50px 0 40px;}
+.award-item{position:relative;overflow:hidden;display:block;}
+.caption h5{margin:0;}
+.thumbnail{padding:0;}
+.row-centered{text-align:center;}
+.col-centered{display:inline-block;float:none;text-align:left;margin-right:-4px;text-align:center;}
+.company-name{text-transform:capitalize;font-size:10px;font-weight:lighter;}
+.country-name{font-size:16px;}
+.planner-name{font-size:14px;}

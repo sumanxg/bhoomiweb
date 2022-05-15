@@ -1,0 +1,8 @@
+
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^bhoomievents\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.bhoomievents\.com$
+RewriteRule ^/?$ "https\:\/\/bhoomievents\.com\/" [R=301,L]
+

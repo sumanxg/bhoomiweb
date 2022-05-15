@@ -1,0 +1,6373 @@
+@media screen and (min-width:1100px) and (max-width:1600px) {
+    .zee_curve_container .zee_curve_right {
+        bottom: -106px!important;
+        right: -247px!important
+    }
+}
+
+@media screen and (min-width:1600px) and (max-width:19200px) {
+    html .caption.lft.small_white.start>span {
+        display: block!important;
+        font-size: 56px!important;
+        line-height: 70px!important
+    }
+}
+
+@media screen and (min-width:1370px) and (max-width:1599px) {
+    .text_banner_holder1 {
+        border-width: 1121px 951px 0 0!important;
+        top: -31%!important
+    }
+}
+
+@media screen and (min-width:1600px) {
+    .text_banner_holder {
+        margin-top: 40%!important
+    }
+}
+
+@media screen and (min-width:769px) and (max-width:869px) {
+    .testi_holder #owl-feed.owl-carousel .owl-item {
+        width: 315px!important;
+        height: 315px!important;
+        overflow: hidden;
+        border-radius: 50%;
+        margin-top: 14px
+    }
+    #sec-blog .team-sec .hm_blog_post .col-sm-3 {
+        width: 50%!important
+    }
+    .col-sm-3.motif-about1,
+    .col-sm-3.motif-about {
+        margin-top: 80px;
+        position: relative;
+        top: -30px;
+        right: -40px
+    }
+    #sec-blog .team-sec .hm_blog_post .col-sm-3.motif-about {
+        position: relative;
+        top: -80px;
+        left: 6%
+    }
+    .testi_holder .owl-carousel.fadeOut.owl-theme {
+        margin-top: -55px
+    }
+    #team .about_right {
+        display: none
+    }
+    .projects.decoration .col-md-9 {
+        float: left;
+        width: 70%
+    }
+    .projects.decoration .col-md-3 .video_list>li {
+        width: 100%
+    }
+    .media_list>li {
+        display: inline-block;
+        float: left;
+        margin-bottom: 19px;
+        margin-right: 41px;
+        min-height: 170px;
+        width: 28%!important
+    }
+}
+
+@media screen and (max-width:989px) {
+    .news_and_media.motif3::before {
+        left: 60px!important
+    }
+}
+
+@media screen and (min-width:990px) {
+    .news_and_media.motif3 .wedding_slides {
+        left: -40px;
+        width: 492px
+    }
+}
+
+@media screen and (min-width:870px) and (max-width:990px) {
+    .testi_holder #owl-feed.owl-carousel .owl-item {
+        width: 315px!important;
+        height: 315px!important;
+        overflow: hidden;
+        border-radius: 50%;
+        margin-top: 14px
+    }
+    #sec-blog .team-sec .hm_blog_post .col-sm-3 {
+        width: 50%!important
+    }
+    .col-sm-3.motif-about1,
+    .col-sm-3.motif-about {
+        margin-top: 80px;
+        position: relative;
+        top: -30px;
+        right: -40px
+    }
+    #sec-blog .team-sec .hm_blog_post .col-sm-3.motif-about {
+        position: relative;
+        top: -80px;
+        left: 70px
+    }
+    #team .about_right {
+        display: none
+    }
+    .media_list>li {
+        display: inline-block;
+        float: left;
+        margin-bottom: 19px;
+        margin-right: 41px;
+        min-height: 170px;
+        width: 28%!important
+    }
+}
+
+@media screen and (min-width:220px) and (max-width:480px) {
+    .testi_holder #owl-feed.owl-carousel .owl-item {
+        border-radius: 50%;
+        height: 315px!important;
+        margin-left: 3px;
+        margin-top: 104px;
+        overflow: hidden;
+        width: 315px!important
+    }
+    .mob-center {
+        left: -230px!important
+    }
+    #team .video_holder .col-xs-12.heading_cover {
+        width: 80%!important
+    }
+    html .caption.lft.small_white.start {
+        font-size: 24px!important;
+        line-height: 28px!important
+    }
+    html .caption.lft.small_white strong {
+        font-size: 37px!important;
+        line-height: 7px!important
+    }
+    .news_and_media.motif3::before {
+        left: -50px!important
+    }
+    .news_and_media .wedding_slides {
+        left: -79px;
+        top: 5px
+    }
+    .col-sm-4.featured_box {
+        width: 100%
+    }
+    .col-sm-4.featured_box ul li {
+        float: left;
+        margin-right: 1%;
+        overflow: hidden;
+        width: 49%
+    }
+    .featured_section {
+        margin: 0;
+        padding: 0 4px;
+        width: 100%
+    }
+    .featured_section .col-sm-8 {
+        margin-bottom: -11px;
+        padding: 0
+    }
+    .news_media_slider_caption {
+        font-size: 10px
+    }
+    .media_list>li {
+        width: 42%!important
+    }
+    .testi_holder .owl-carousel.fadeOut.owl-theme {
+        margin-top: -63px;
+        margin-left: -5px;
+        width: 350px
+    }
+    html .inner_pages_header .single_portfolio .service_single .icon_holder .icon_shape {
+        min-height: 270px!important;
+        background: none!important
+    }
+    .projects.decoration iframe {
+        margin-top: 20px
+    }
+    .service_single .icon_holder {
+        margin-bottom: 0!important
+    }
+}
+
+@media screen and (min-width:481px) and (max-width:768px) {
+    .testi_holder #owl-feed.owl-carousel .owl-item {
+        border-radius: 50%;
+        height: 315px!important;
+        margin-top: 104px;
+        overflow: hidden;
+        width: 315px!important;
+        margin-left: 33px
+    }
+    .media_list>li {
+        width: 28%!important
+    }
+    .service_single .icon_holder {
+        margin-bottom: 15px!important
+    }
+    .news_media .projects .service_single.full {
+        margin-bottom: 0;
+        min-height: 315px
+    }
+    .projects.decoration iframe {
+        margin-top: 20px
+    }
+    .col-sm-4.featured_box {
+        width: 100%
+    }
+    .col-sm-4.featured_box ul li {
+        float: left;
+        margin-right: 1%;
+        overflow: hidden;
+        width: 49%
+    }
+    .featured_section {
+        margin: 0;
+        padding: 0 4px;
+        width: 100%
+    }
+    .featured_section .col-sm-8 {
+        margin-bottom: -11px;
+        padding: 0
+    }
+}
+
+@media screen and (min-width:992px) and (max-width:1199px) {
+    .zee_curve_container .zee_curve_left {
+        top: -72px
+    }
+    #sec-blog .team-sec .hm_blog_post .col-sm-3 {
+        width: 50%!important
+    }
+    #sec-blog .team-sec .hm_blog_post .col-sm-3.motif-about1 {
+        margin-top: 0;
+        position: relative;
+        left: 70px
+    }
+    #sec-blog .team-sec .hm_blog_post .col-sm-3.motif-about {
+        left: 18%;
+        margin-top: 0;
+        position: relative;
+        top: -30px
+    }
+    .zee_curve_container .zee_curve_right {
+        bottom: -79px
+    }
+    .sticky-wrapper.is-sticky .menu-bar {
+        height: 57px
+    }
+    .menu-bar .main-nav ul li a {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 13px;
+        margin: 22px 12px
+    }
+    .menu-bar .main-nav ul>li>ul a,
+    .menu-bar .main-nav ul>li>ul a:link {
+        font-size: 13px;
+        line-height: 44px;
+        padding: 0 22px
+    }
+    .menu-bar .main-nav .back_top a {
+        margin: 16px 24px 17px 18px
+    }
+    .header_nav_holder {
+        float: right
+    }
+    .header_nav_holder .main-nav {
+        float: left;
+        display: none
+    }
+    .header_toggle_menu {
+        display: inline-block;
+        float: right
+    }
+    .header_toggle_menu .menu_small_btn {
+        background: none;
+        border: 0;
+        color: #fff;
+        float: right;
+        margin: 0 0 0 15px;
+        position: relative;
+        text-align: center;
+        transition: all 0.3s ease 0s;
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        -ms-transition: all 0.3s ease 0s;
+        -o-transition: all 0.3s ease 0s;
+        height: 15px;
+        width: 15px
+    }
+    .header_toggle_menu .menu_small_btn:hover {
+        background: none
+    }
+    .header_toggle_menu .menu_small_btn .toggle_menu_btn,
+    .header_toggle_menu .menu_small_btn .toggle_top_menu_btn {
+        position: absolute;
+        top: 0;
+        left: 0;
+        cursor: pointer;
+        transition: all 0.2s ease 0s;
+        -webkit-transition: all 0.2s ease 0s;
+        -moz-transition: all 0.2s ease 0s;
+        -ms-transition: all 0.2s ease 0s;
+        -o-transition: all 0.2s ease 0s
+    }
+    .header_toggle_menu .menu_small_btn .open_menu {
+        z-index: 10;
+        opacity: 1
+    }
+    .header_toggle_menu .menu_small_btn .close_menu {
+        opacity: 0;
+        z-index: 9
+    }
+    .header_toggle_menu i {
+        font-size: 15px;
+        line-height: 15px;
+        vertical-align: top
+    }
+    .header-menu-2,
+    .header-menu-1 {
+        position: absolute;
+        top: 0
+    }
+    .header-menu-2.menu-bar .logo img,
+    .header-menu-1.menu-bar .logo img {
+        float: left
+    }
+    .header-menu-2.menu-bar .logo {
+        margin: 0
+    }
+    .header-menu-2 .main-nav ul li a {
+        margin: 0 12px
+    }
+    .header-menu-1.menu-bar .logo {
+        margin: 0
+    }
+    .header-menu-1 .main-nav ul li a {
+        margin: 0 17px
+    }
+    .static_banner {
+        height: 850px;
+        position: relative;
+        width: 100%
+    }
+    .text_banner_holder {
+        margin: 217px 0 0 0
+    }
+    .text_banner_holder .skew_shape {
+        height: 293px
+    }
+    .text_banner_holder .heading_wrap h2 {
+        font-size: 85px;
+        line-height: 88px;
+        margin: 0 0 17px 0
+    }
+    .text_banner_holder .heading_wrap h3 {
+        font-size: 28px;
+        line-height: 40px;
+        margin: 0 0 14px 0
+    }
+    .text_banner_holder .next_section a {
+        font-size: 70px;
+        line-height: 20px
+    }
+    .text_banner_holder .slim_text.heading_wrap h2 {
+        font-size: 70px;
+        line-height: 73px
+    }
+    .service_single .icon_holder .icon_shape i {
+        font-size: 36px;
+        line-height: 95px
+    }
+    .work_nav ul li {
+        margin: 0 15px
+    }
+    .work_listing .work_item {
+        display: block
+    }
+    .view .links {
+        margin: 0 0 41px 0
+    }
+    .member_basic {
+        padding: 10px
+    }
+    .member_basic .member_name {
+        font-size: 22px;
+        line-height: 30px
+    }
+    .member_basic .member_designation {
+        font-size: 15px;
+        line-height: 26px
+    }
+    .team_slider {
+        margin: 0 0 36px 0
+    }
+    .widget_kraft_slider .bx-wrapper .bx-controls-direction a {
+        top: 119px
+    }
+    .widget_kraft_search label,
+    .widget_search label {
+        margin: 0
+    }
+    #s {
+        width: 224px
+    }
+    .section_404 .hgroup .heading_left h1 {
+        font-size: 164px;
+        line-height: 190px
+    }
+    .section_404 .hgroup .heading_left h1:after {
+        bottom: 15px
+    }
+    .section_404 .hgroup .skew_shape {
+        height: 234px
+    }
+    .section_404 .hgroup .heading_right {
+        padding: 31px 0 0 20px
+    }
+    .section_404 .hgroup h2 {
+        font-size: 70px;
+        line-height: 70px;
+        margin: 0 0 7px
+    }
+    .section_404 .hgroup h3 {
+        font-size: 25px;
+        line-height: 36px
+    }
+    .section_404 .hgroup p {
+        font-size: 17px;
+        line-height: 24px;
+        margin: 0 0 7px
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .zee_curve_container {}
+    .zee_d_curve_container {
+        min-height: 504px
+    }
+    .zee_d_curve_container .container {
+        min-height: 504px
+    }
+    .zee_d_curve {
+        min-height: 504px
+    }
+    .zee_curve {
+        height: 504px
+    }
+    .feautured_services.col-sm-10.sliding-services .single_portfolio.item.greyscale:hover .icon_holder {
+        margin-top: 9px!important
+    }
+    .feautured_services .portfolio_listing .owl-item {
+        margin-right: -2px
+    }
+    #team .video_holder .col-xs-12.heading_cover {
+        width: 80%!important
+    }
+    .zee_curve_container .zee_curve_left {
+        top: -83px
+    }
+    .zee_curve_container .zee_curve_right {
+        bottom: -90px
+    }
+    .zee_b_curve_container .section_curve_container {
+        padding-bottom: 180px
+    }
+    .curve_heading h4 {
+        margin-bottom: 47px
+    }
+    .zee_curve_container .video_holder {
+        margin: 164px 0 150px
+    }
+    .video_holder .play-button {
+        height: 70px;
+        margin: 0 0 26px;
+        width: 70px
+    }
+    .video_holder .play-button:before {
+        line-height: 70px
+    }
+    .zee_curve_container .testi_holder {
+        margin: 190px 0 170px
+    }
+    .testi_holder .testi_single .avatar {
+        width: 136px
+    }
+    .testi_holder .testi_single .testi_text {
+        text-align: left;
+        float: left;
+        width: 441px;
+        margin-left: 18px
+    }
+    .testi_holder .testi_single .testi_text h3 {
+        font-size: 16px;
+        line-height: 22px;
+        margin: 15px 0 20px
+    }
+    .testi_holder .testi_single .testi_text h5 {
+        font-size: 15px;
+        line-height: 24px
+    }
+    .testi_holder .owl-controls .owl-pagination {
+        margin-top: 24px;
+        width: 136px
+    }
+    .zee_curve_container .folio_stats {
+        margin: 165px 0 185px
+    }
+    .sticky-wrapper.is-sticky .menu-bar {
+        height: 57px
+    }
+    .menu-bar .main-nav ul li a {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 12px;
+        margin: 22px 6px
+    }
+    .menu-bar .main-nav ul>li>ul a,
+    .menu-bar .main-nav ul>li>ul a:link {
+        font-size: 12px;
+        line-height: 44px;
+        padding: 0 22px
+    }
+    .menu-bar .main-nav .back_top a {
+        margin: 16px 18px 17px 14px
+    }
+    .header-menu-2 {
+        background-color: rgba(0, 0, 0, 0);
+        border: none;
+        padding: 44px 0 0 0
+    }
+    .header-menu-2.menu-bar .logo {
+        margin: 0
+    }
+    .header-menu-2 .main-nav ul li a {
+        border-bottom: 2px solid transparent;
+        color: #fff;
+        margin: 0 20px;
+        padding: 0 4px 6px
+    }
+    .header-menu-2 .main-nav ul li a:hover,
+    .header-menu-2 .main-nav ul li.current a {
+        border-bottom: 2px solid #fff
+    }
+    .header-menu-1.menu-bar .logo {
+        margin: 0
+    }
+    .header-menu-1 .main-nav ul li a {
+        margin: 0 8px
+    }
+    .static_banner {
+        height: 700px
+    }
+    .text_banner_holder {
+        margin: 170px 0 0 0
+    }
+    .text_banner_holder .skew_shape {
+        height: 210px
+    }
+    .text_banner_holder .heading_wrap h2 {
+        font-size: 70px;
+        line-height: 73px;
+        margin: 0 0 12px 0
+    }
+    .text_banner_holder .heading_wrap h3 {
+        font-size: 22px;
+        line-height: 34px;
+        margin: 0 0 12px 0
+    }
+    .text_banner_holder .next_section a {
+        font-size: 50px
+    }
+    .text_banner_holder .slim_text.heading_wrap h2 {
+        font-size: 52px;
+        line-height: 55px
+    }
+    .section_container {
+        padding-top: 64px
+    }
+    .section_container .hgroup {
+        margin-bottom: 32px
+    }
+    .section_container .hgroup h2 {
+        font-size: 30px;
+        line-height: 30px;
+        margin: 30px 0
+    }
+    .section_container .hgroup h3 {
+        font-size: 15px;
+        line-height: 22px;
+        margin: 27px 0
+    }
+    .about_image img {
+        max-width: 100%
+    }
+    .about_content_holder h3 {
+        font-size: 22px;
+        line-height: 30px
+    }
+    .about_single {
+        margin-bottom: 22px
+    }
+    .about_single i {
+        font-size: 34px;
+        line-height: 34px
+    }
+    .project .project_detail {
+        margin: 15px 0 0 0
+    }
+    .project .featured_image img {
+        width: 100%
+    }
+    .project .project_detail .project_text .hgroup h2 {
+        font-size: 23px;
+        line-height: 33px;
+        padding-right: 82px
+    }
+    .project .project_detail .project_text .hgroup h3 {
+        font-size: 16px;
+        line-height: 24px;
+        padding-right: 82px
+    }
+    .service_single .icon_holder .icon_shape i {
+        font-size: 30px;
+        line-height: 72px
+    }
+    .simple_text .text_holder {
+        margin-bottom: 18px
+    }
+    .simple_text .text_holder h4 {
+        font-size: 24px;
+        line-height: 32px;
+        padding: 0 1.5%
+    }
+    .simple_text .text_holder p {
+        padding: 0 1.5%
+    }
+    .work_nav ul {
+        margin: 50px 0 30px
+    }
+    .work_nav ul li {
+        margin: 0 15px
+    }
+    .work_nav ul li a {
+        font-size: 13px;
+        line-height: 22px
+    }
+    .work_listing {
+        margin: 0 0 20px 0
+    }
+    .view .links {
+        margin: 0 0 21px 0
+    }
+    .view .work_detail {
+        padding: 0 12.82%
+    }
+    .view .work_detail h3 {
+        font-size: 22px;
+        line-height: 28px;
+        margin-bottom: 10px
+    }
+    .view .work_detail p {
+        font-size: 13px;
+        line-height: 18px
+    }
+    .member_basic {
+        padding: 10px
+    }
+    .member_basic .member_name {
+        font-size: 20px;
+        line-height: 26px
+    }
+    .member_basic .member_designation {
+        font-size: 13px;
+        line-height: 18px
+    }
+    .team_slider {
+        margin: 0 0 26px 0
+    }
+    .team_social>li {
+        font-size: 18px;
+        line-height: 33px;
+        margin: 0 33px 0 0
+    }
+    .team_social>li:after {
+        right: -18px
+    }
+    .team_description h3 {
+        font-size: 18px;
+        line-height: 26px
+    }
+    .clients_holder {
+        margin-bottom: 30px
+    }
+    .hm_blog_post .post {
+        margin-bottom: 20px
+    }
+    .post .post_content {
+        padding-left: 70px;
+        padding-top: 20px
+    }
+    .post .post_content .date_holder .date {
+        height: 67px;
+        padding-top: 12px;
+        width: 50px
+    }
+    .post .post_content .date_holder .date .date_day {
+        font-size: 24px;
+        line-height: 20px
+    }
+    .post .post_content .date_holder .date .date_month {
+        font-size: 14px;
+        line-height: 18px
+    }
+    .post .post_content .meta_holder .title_holder .post_title {
+        font-size: 20px;
+        line-height: 26px;
+        margin: 0 0 22px
+    }
+    .post .post_content .meta_holder .post_meta {
+        font-size: 14px
+    }
+    .google_map {
+        height: 454px
+    }
+    .map_mask {
+        height: 220px
+    }
+    .content_bar h2.folio_h2 {
+        font-size: 34px;
+        line-height: 44px;
+        padding: 0 0 0 28px;
+        clear: both
+    }
+    .content_bar h2.folio_h2:before {
+        height: 44px;
+        left: 14px;
+        width: 1px
+    }
+    .content_bar h1,
+    .content_bar .h1,
+    .content_bar h1 a,
+    .content_bar .h1 a,
+    .content_bar h2,
+    .content_bar .h2,
+    .content_bar h2 a,
+    .content_bar .h2 a,
+    .content_bar h3,
+    .content_bar .h3,
+    .content_bar h3 a,
+    .content_bar .h3 a,
+    .content_bar h4,
+    .content_bar .h4,
+    .content_bar h4 a,
+    .content_bar .h4 a,
+    .content_bar h5,
+    .content_bar .h5,
+    .content_bar h5 a,
+    .content_bar .h5 a,
+    .content_bar h6,
+    .content_bar .h6,
+    .content_bar h6 a,
+    .content_bar .h6 a {
+        margin: 0 0 20px 0
+    }
+    .content_bar h1 {
+        font-size: 34px;
+        line-height: 40px
+    }
+    .content_bar h2 {
+        clear: both;
+        font-size: 28px;
+        line-height: 34px
+    }
+    .content_bar h3 {
+        font-size: 26px;
+        line-height: 32px
+    }
+    .content_bar h4 {
+        font-size: 22px;
+        line-height: 28px
+    }
+    .content_bar h5 {
+        font-size: 18px;
+        line-height: 24px
+    }
+    .content_bar h6 {
+        font-size: 16px;
+        line-height: 22px
+    }
+    .internal_header {
+        padding: 60px 0 18px 0
+    }
+    .internal_header .hgroup h2 {
+        font-size: 60px;
+        line-height: 76px
+    }
+    .internal_header .hgroup h3 {
+        font-size: 24px;
+        line-height: 34px
+    }
+    .internal_header .hgroup h4 {
+        font-size: 16px;
+        line-height: 22px
+    }
+    .blog_listing .post {
+        margin: 0 0 56px 0
+    }
+    .blog_listing.blog_single .post {
+        margin: 0
+    }
+    .blog_listing .post .post_content .meta_holder {
+        display: block;
+        margin: 0 0 16px;
+        overflow: hidden
+    }
+    .blog_listing .post .post_content .meta_holder .title_holder {
+        float: left;
+        width: 100%;
+        padding-right: 110px
+    }
+    .blog_listing .post .post_content .meta_holder .meta_list {
+        float: left;
+        width: 100%;
+        margin: 0
+    }
+    .blog_listing .meta_holder .comments {
+        position: absolute;
+        right: 0;
+        top: 12px
+    }
+    .blog_listing .meta_holder .comments a {
+        font-size: 12px;
+        line-height: 24px
+    }
+    .blog_listing .meta_holder .comments i {
+        font-size: 16px
+    }
+    .blog_listing .meta_holder .comments span {
+        font-size: 14px;
+        margin: 0 4px 0 6px
+    }
+    .folio_navigation {
+        margin: 0 0 20px 70px
+    }
+    .page_nav {
+        margin: 0 0 20px 70px
+    }
+    .widget_kraft_slider .bx-wrapper .bx-controls-direction a {
+        bottom: 68px
+    }
+    .widget_kraft_search label,
+    .widget_search label {
+        margin: 0
+    }
+    #s {
+        width: 151px
+    }
+    #comments_section {
+        margin: 0 0 0 70px;
+        padding: 13px 0 20px 0
+    }
+    #comments .commentlist .comment .clearing-container img {
+        width: 80px;
+        height: 80px
+    }
+    #comments .commentlist .children {
+        margin: 0 0 0 50px
+    }
+    #comments .clearing-container .comment_block {
+        margin: -14px 0 0 100px
+    }
+    .folio-tabs .folio-nav li a {
+        padding: 0 30px
+    }
+    .folio-tabs .folio-tab {
+        padding: 22px 28px
+    }
+    .folio_pricing_single .price_title {
+        padding: 10px 15px
+    }
+    .folio_pricing_single .price_title h2 {
+        font-size: 20px;
+        line-height: 25px
+    }
+    .folio_pricing_single .price_cost {
+        padding: 32px 15px
+    }
+    .folio_pricing_single .price_cost .price {
+        font-size: 46px;
+        line-height: 46px
+    }
+    .folio_pricing_single .pricing_details {
+        padding: 22px 0 35px
+    }
+    .folio_pricing_single .pricing_details ul {
+        margin: 0 0 15px 0
+    }
+    .folio_pricing_single .pricing_details ul li {
+        font-size: 13px;
+        line-height: 22px;
+        padding: 0 0 20px 0
+    }
+    .content_bar .quote_1,
+    .content_bar .quote_2,
+    .content_bar .quote_3,
+    .content_bar .quote_4,
+    .content_bar .quote_5 {
+        margin: 30px 0 10px 0;
+        padding: 0 10px 0 45px
+    }
+    .content_bar .quote_4,
+    .content_bar .quote_5 {
+        padding: 23px 36px 23px 36px
+    }
+    .content_bar .quote_1 p,
+    .content_bar .quote_4 p,
+    .content_bar .quote_5 p {
+        font-size: 15px;
+        line-height: 26px
+    }
+    .content_bar .quote_2 p,
+    .content_bar .quote_3 p {
+        font-size: 20px;
+        line-height: 26px
+    }
+    .content_bar .quote_4 p,
+    .content_bar .quote_5 p {
+        font-size: 20px;
+        line-height: 26px
+    }
+    .section_404 {
+        padding-top: 142px
+    }
+    .section_404 .hgroup .heading_left h1 {
+        font-size: 124px;
+        line-height: 148px
+    }
+    .section_404 .hgroup .heading_left h1:after {
+        bottom: 5px;
+        width: 44px;
+        height: 8px;
+        margin-left: -22px
+    }
+    .section_404 .hgroup .skew_shape {
+        height: 175px
+    }
+    .section_404 .hgroup .heading_right {
+        padding: 15px 0 0 20px
+    }
+    .section_404 .hgroup h2 {
+        font-size: 45px;
+        line-height: 45px;
+        margin: 0 0 7px
+    }
+    .section_404 .hgroup h3 {
+        font-size: 20px;
+        line-height: 26px
+    }
+    .section_404 .hgroup p {
+        font-size: 14px;
+        line-height: 22px;
+        margin: 0 0 7px
+    }
+}
+
+@media screen and (max-width:767px) {
+    .zee_curve_container {}
+    .zee_d_curve_container {
+        min-height: 504px
+    }
+    .zee_d_curve_container .container {
+        min-height: 504px
+    }
+    .zee_d_curve {
+        min-height: 504px
+    }
+    .pull-right {
+        float: none!important
+    }
+    r .zee_curve_left {
+        top: -94px
+    }
+    .zee_curve_container .zee_curve_right {
+        bottom: -101px
+    }
+    blockquote.home_quote {
+        font-size: 18px;
+        line-height: 26px
+    }
+    blockquote.home_quote p {
+        font-size: 18px;
+        line-height: 26px
+    }
+    .curve_heading h4 {
+        font-size: 26px;
+        line-height: 40px;
+        margin-bottom: 47px
+    }
+    .video_holder .play-button {
+        height: 70px;
+        margin: 0 0 26px;
+        width: 70px;
+        top: 25%;
+        left: 41%
+    }
+    .video_holder .play-button:before {
+        line-height: 70px
+    }
+    .zee_curve_container .testi_holder {
+        margin: 190px 0 170px
+    }
+    .testi_holder .col-sm-10 {
+        width: 630px
+    }
+    .testi_holder .testi_single .avatar {
+        display: inline-block;
+        float: none;
+        overflow: hidden;
+        vertical-align: top;
+        width: 136px
+    }
+    .testi_holder .testi_single .testi_text {
+        display: inline-block;
+        text-align: left;
+        float: none;
+        width: 441px;
+        margin-left: 18px;
+        overflow: hidden
+    }
+    .testi_holder .testi_single .testi_text h3 {
+        font-size: 16px;
+        line-height: 22px;
+        margin: 15px 0 20px
+    }
+    .testi_holder .testi_single .testi_text h5 {
+        font-size: 15px;
+        line-height: 24px
+    }
+    .testi_holder .owl-controls .owl-pagination {
+        margin-top: 24px;
+        width: 136px
+    }
+    .zee_curve_container .folio_stats {
+        margin: 165px 0 150px
+    }
+    .sticky-wrapper.is-sticky .menu-bar {
+        height: auto
+    }
+    .small_menu {
+        display: inline-block;
+        float: right
+    }
+    .small_menu .menu_small_btn {
+        background: none;
+        border: 0;
+        color: #fff;
+        float: right;
+        margin: 2px 0;
+        position: relative;
+        text-align: center;
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        -ms-transition: all 0.3s ease 0s;
+        -o-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+        height: 24px;
+        width: 30px
+    }
+    .small_menu .menu_small_btn:hover {
+        background: none
+    }
+    .small_menu .menu_small_btn .open_menu,
+    .small_menu .menu_small_btn .close_menu {
+        position: absolute;
+        top: 0;
+        left: 0;
+        cursor: pointer;
+        transition: all 0.2s ease 0s;
+        -webkit-transition: all 0.2s ease 0s;
+        -moz-transition: all 0.2s ease 0s;
+        -ms-transition: all 0.2s ease 0s;
+        -o-transition: all 0.2s ease 0s
+    }
+    .small_menu .menu_small_btn .open_menu {
+        z-index: 10;
+        opacity: 1
+    }
+    .small_menu .menu_small_btn .close_menu {
+        opacity: 0;
+        z-index: 9
+    }
+    .small_menu .menu_small_btn i {
+        font-size: 38px;
+        line-height: 24px
+    }
+    .menu-bar {
+        height: 75px;
+        width: 100%;
+        position: fixed;
+        top: 0
+    }
+    .top_border {
+        position: fixed;
+        top: 0
+    }
+    .menu-bar .logo {
+        display: block;
+        float: none;
+        overflow: hidden;
+        margin: 10px 0;
+        text-align: center
+    }
+    .menu-bar .logo img {
+        float: left;
+        margin-left: 10px;
+        margin-top: 5px
+    }
+    .menu-bar .main-nav {
+        clear: both;
+        display: block;
+        float: none
+    }
+    .menu-bar .main-nav ul {
+        float: none;
+        display: none;
+        margin: 0;
+        overflow: hidden
+    }
+    .menu-bar .main-nav ul li {
+        clear: both;
+        display: block;
+        border-bottom: 1px solid rgba(255, 255, 255, .1);
+        float: none;
+        list-style: none;
+        text-align: left;
+        overflow: hidden
+    }
+    .menu-bar .main-nav ul li a {
+        font-size: 12px;
+        position: relative;
+        line-height: 12px;
+        padding: 10px 0;
+        margin: 0
+    }
+    .menu-bar .main-nav .back_top {
+        display: none
+    }
+    .menu-bar .main-nav ul>li>ul {
+        border-top: none;
+        visibility: visible;
+        width: 100%;
+        position: relative;
+        text-align: left;
+        -webkit-transition: all 0.5s ease 0.1s;
+        -moz-transition: all 0.5s ease 0.1s;
+        -ms-transition: all 0.5s ease 0.1s;
+        -o-transition: all 0.5s ease 0.1s;
+        transition: all 0.5s ease 0.1s;
+        opacity: 1;
+        top: 0;
+        max-width: 100%;
+        min-width: 100%
+    }
+    .menu-bar .main-nav ul>li>ul a,
+    .menu-bar .main-nav ul>li>ul a:link {
+        font-size: 12px;
+        line-height: 12px;
+        margin: 0;
+        padding: 10px 0 10px 24px;
+        transition: all 0.3s ease 0s;
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        -ms-transition: all 0.3s ease 0s;
+        -o-transition: all 0.3s ease 0s;
+        text-align: left
+    }
+    .menu-bar .main-nav ul>li>ul a:hover {
+        background-color: rgba(41, 41, 41, .5);
+        color: #FFF
+    }
+    .header-menu-1,
+    .header-menu-2 {
+        display: none
+    }
+    .static_banner {
+        height: 550px;
+        position: relative;
+        width: 100%
+    }
+    .text_banner_holder {
+        margin: 100px 0 0 0
+    }
+    .text_banner_holder .skew_shape {
+        height: 210px
+    }
+    .text_banner_holder .heading_wrap h2 {
+        font-size: 65px;
+        line-height: 68px;
+        margin: 0 0 12px 0
+    }
+    .text_banner_holder .heading_wrap h3 {
+        font-size: 22px;
+        line-height: 34px;
+        margin: 0 0 12px 0
+    }
+    .text_banner_holder .next_section a {
+        font-size: 40px;
+        line-height: 20px
+    }
+    .text_banner_holder .slim_text.heading_wrap h2 {
+        font-size: 45px;
+        line-height: 48px
+    }
+    .section_container {
+        padding-top: 64px
+    }
+    .section_container .hgroup {
+        margin-bottom: 32px
+    }
+    .section_container .hgroup h2 {
+        font-size: 22px;
+        line-height: 22px;
+        margin: 10px 0
+    }
+    .section_container .hgroup h3 {
+        font-size: 14px;
+        line-height: 18px;
+        margin: 6px 0
+    }
+    .section_container .hgroup .skew_shape {
+        height: 73px
+    }
+    .about_image {
+        text-align: center;
+        margin-bottom: 32px
+    }
+    .about_content_holder {
+        text-align: center
+    }
+    .about_content_holder h3 {
+        font-size: 22px;
+        line-height: 30px;
+        margin: 0 0 33px
+    }
+    .about_single {
+        margin: 0 auto;
+        margin-bottom: 22px;
+        max-width: 440px;
+        text-align: center;
+        overflow: hidden
+    }
+    .about_single .icon_holder {
+        margin-bottom: 10px;
+        width: 100%
+    }
+    .about_single .about_right {
+        width: 100%
+    }
+    .about_single i {
+        font-size: 34px;
+        line-height: 34px
+    }
+    .learn_more_about .folio-link-url {
+        margin: 0 auto
+    }
+    .project .project_detail {
+        margin: 15px 0 0 0
+    }
+    .project .featured_image img {
+        width: 100%
+    }
+    .project .project_detail .project_text .hgroup h2 {
+        font-size: 23px;
+        line-height: 33px;
+        padding-right: 0
+    }
+    .project .project_detail .project_text .hgroup h3 {
+        font-size: 16px;
+        line-height: 24px;
+        padding-right: 0
+    }
+    .service_single {
+        margin-bottom: 44px;
+        overflow: hidden;
+        text-align: center
+    }
+    .service_single .icon_holder {
+        float: none;
+        margin: 0 auto 20px;
+        width: 122px
+    }
+    .service_single .icon_holder .icon_shape i {
+        font-size: 40px;
+        line-height: 120px
+    }
+    .service_single .service_right {
+        float: none;
+        margin: 0 auto
+    }
+    .simple_text .text_holder {
+        margin-bottom: 18px
+    }
+    .simple_text .text_holder h4 {
+        font-size: 24px;
+        line-height: 32px;
+        padding: 0 5.5%
+    }
+    .simple_text .text_holder p {
+        padding: 0 5.5%
+    }
+    .work_nav ul {
+
+        margin: 25px 0 10px
+    }
+    .work_nav ul li {
+        margin: 0 10px
+    }
+    .work_nav ul li a {
+        font-size: 13px;
+        line-height: 22px
+    }
+    .work_listing {
+        margin: 0 0 20px 0
+    }
+    .work_listing .work_item .single_work {
+        width: 390px;
+        margin: 0 auto
+    }
+    .member_basic {
+        padding: 10px 5px
+    }
+    .member_basic .member_name {
+        font-size: 14px;
+        line-height: 16px
+    }
+    .member_basic .member_designation {
+        font-size: 12px;
+        line-height: 14px
+    }
+    .team_slider {
+        margin: 0 0 16px 0
+    }
+    .team_social {
+        margin-bottom: 14px
+    }
+    .team_description {
+        margin-left: 0
+    }
+    .team_description h3 {
+        font-size: 18px;
+        line-height: 26px
+    }
+    .clients_holder {
+        margin-bottom: 20px
+    }
+    .hm_blog_post .post {
+        margin-bottom: 20px
+    }
+    .post .featured_image img {
+        width: 100%
+    }
+    .post .post_content {
+        padding-left: 70px;
+        padding-top: 20px
+    }
+    .post .post_content .date_holder .date {
+        height: 67px;
+        padding-top: 12px;
+        width: 50px
+    }
+    .post .post_content .date_holder .date .date_day {
+        font-size: 24px;
+        line-height: 20px
+    }
+    .post .post_content .date_holder .date .date_month {
+        font-size: 14px;
+        line-height: 18px
+    }
+    .post .post_content .meta_holder .title_holder .post_title {
+        font-size: 20px;
+        line-height: 26px;
+        margin: 0 0 22px
+    }
+    .post .post_content .meta_holder .post_meta {
+        font-size: 14px
+    }
+    .google_map {
+        height: 454px
+    }
+    .map_mask {
+        height: 170px
+    }
+    footer {
+        text-align: center
+    }
+    ul.sm_links {
+        display: inline-block;
+        float: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        vertical-align: bottom
+    }
+    .content_bar h2.folio_h2 {
+        font-size: 32px;
+        font-weight: 300;
+        line-height: 42px;
+        padding: 0 0 0 33px;
+        margin: 0 0 30px
+    }
+    .content_bar h2.folio_h2:before {
+        height: 42px;
+        position: absolute;
+        left: 14px;
+        width: 1px
+    }
+    .content_bar h1,
+    .content_bar .h1,
+    .content_bar h1 a,
+    .content_bar .h1 a,
+    .content_bar h2,
+    .content_bar .h2,
+    .content_bar h2 a,
+    .content_bar .h2 a,
+    .content_bar h3,
+    .content_bar .h3,
+    .content_bar h3 a,
+    .content_bar .h3 a,
+    .content_bar h4,
+    .content_bar .h4,
+    .content_bar h4 a,
+    .content_bar .h4 a,
+    .content_bar h5,
+    .content_bar .h5,
+    .content_bar h5 a,
+    .content_bar .h5 a,
+    .content_bar h6,
+    .content_bar .h6,
+    .content_bar h6 a,
+    .content_bar .h6 a {
+        margin: 0 0 15px 0
+    }
+    .content_bar h1 {
+        font-size: 32px;
+        line-height: 38px
+    }
+    .content_bar h2 {
+        clear: both;
+        font-size: 26px;
+        line-height: 32px
+    }
+    .content_bar h3 {
+        font-size: 24px;
+        line-height: 30px
+    }
+    .content_bar h4 {
+        font-size: 20px;
+        line-height: 26px
+    }
+    .content_bar h5 {
+        font-size: 17px;
+        line-height: 22px
+    }
+    .content_bar h6 {
+        font-size: 15px;
+        line-height: 20px
+    }
+    .content_bar p {
+        font-size: 13px;
+        line-height: 19px
+    }
+    .content_bar pre {
+        font-size: 13px;
+        line-height: 19px
+    }
+    .content_bar ul li {
+        font-size: 13px;
+        line-height: 19px
+    }
+    .content_bar ol {
+        padding: 0
+    }
+    .content_bar ol li {
+        font-size: 13px;
+        line-height: 19px
+    }
+    .internal_header {
+        padding: 60px 0 18px 0
+    }
+    .internal_header .hgroup h2 {
+        font-size: 60px;
+        line-height: 76px
+    }
+    .internal_header .hgroup h3 {
+        font-size: 24px;
+        line-height: 34px
+    }
+    .internal_header .hgroup h4 {
+        font-size: 16px;
+        line-height: 22px
+    }
+    .blog_listing .post {
+        margin: 0 0 56px 0
+    }
+    .blog_listing.blog_single .post {
+        margin: 0
+    }
+    .blog_listing .post .post_content .meta_holder {
+        display: block;
+        margin: 0 0 16px;
+        overflow: hidden
+    }
+    .blog_listing .post .post_content .meta_holder .title_holder {
+        float: left;
+        width: 100%;
+        padding-right: 110px
+    }
+    .blog_listing .post .post_content .meta_holder .meta_list {
+        float: left;
+        width: 100%;
+        margin: 0
+    }
+    .blog_listing .meta_holder .comments {
+        position: absolute;
+        right: 0;
+        top: 12px
+    }
+    .blog_listing .meta_holder .comments a {
+        font-size: 12px;
+        line-height: 24px
+    }
+    .blog_listing .meta_holder .comments i {
+        font-size: 16px
+    }
+    .blog_listing .meta_holder .comments span {
+        font-size: 14px;
+        margin: 0 4px 0 6px
+    }
+    .social_media>ul>li {
+        font-size: 20px;
+        line-height: 33px
+    }
+    .folio_navigation {
+        margin: 0 0 20px 70px
+    }
+    .page_nav {
+        margin: 0 0 20px 70px
+    }
+    .side_bar {
+        padding-left: 15px
+    }
+    .widget_kraft_search label,
+    .widget_search label {
+        margin: 0
+    }
+    #s {
+        width: 80%
+    }
+    #searchsubmit {
+        width: 20%
+    }
+    #comments_section {
+        font-size: 13px;
+        margin: 0 0 0 70px;
+        padding: 13px 0 20px 0
+    }
+    #comments_section h3 {
+        color: #000;
+        font-size: 28px;
+        line-height: 50px;
+        margin: 0 0 20px
+    }
+    #comments_section h3 i {
+        font-size: 18px
+    }
+    #comments .commentlist .comment .clearing-container img {
+        width: 80px;
+        height: 80px
+    }
+    #comments .commentlist .children {
+        margin: 0 0 0 50px
+    }
+    #comments .commentlist li {
+        margin: 0 0 15px
+    }
+    #comments .commentlist li cite.fn,
+    #comments .commentlist a.comment-reply-link {
+        margin-right: 10px
+    }
+    #comments .clearing-container .comment_block {
+        margin: -14px 0 0 100px;
+        padding: 0 0 20px
+    }
+    .folio-one-half,
+    .folio-one-third,
+    .folio-two-third,
+    .folio-three-fourth,
+    .folio-one-fourth,
+    .folio-one-fifth,
+    .folio-two-fifth,
+    .folio-three-fifth,
+    .folio-four-fifth,
+    .folio-one-sixth,
+    .folio-five-sixth {
+        display: block;
+        margin-right: 0;
+        float: none;
+        width: 100%
+    }
+    .folio-tabs .folio-nav li a {
+        padding: 0 30px
+    }
+    .folio-tabs .folio-tab {
+        padding: 22px 28px
+    }
+    .folio_pricing_single .price_title {
+        padding: 10px 15px
+    }
+    .folio_pricing_single .price_title h2 {
+        font-size: 20px;
+        line-height: 25px
+    }
+    .folio_pricing_single .price_cost {
+        padding: 32px 15px
+    }
+    .folio_pricing_single .price_cost .price {
+        font-size: 46px;
+        line-height: 46px
+    }
+    .folio_pricing_single .pricing_details {
+        padding: 22px 0 35px
+    }
+    .folio_pricing_single .pricing_details ul {
+        margin: 0 0 15px 0
+    }
+    .folio_pricing_single .pricing_details ul li {
+        font-size: 13px;
+        line-height: 22px;
+        padding: 0 0 20px 0
+    }
+    .content_bar .quote_1,
+    .content_bar .quote_2,
+    .content_bar .quote_3,
+    .content_bar .quote_4,
+    .content_bar .quote_5 {
+        margin: 30px 0 10px 0;
+        padding: 0 10px 0 45px
+    }
+    .content_bar .quote_4,
+    .content_bar .quote_5 {
+        padding: 23px 36px 23px 36px
+    }
+    .content_bar .quote_1 p,
+    .content_bar .quote_4 p,
+    .content_bar .quote_5 p {
+        font-size: 15px;
+        line-height: 26px
+    }
+    .content_bar .quote_2 p,
+    .content_bar .quote_3 p {
+        font-size: 20px;
+        line-height: 26px
+    }
+    .content_bar .quote_4 p,
+    .content_bar .quote_5 p {
+        font-size: 20px;
+        line-height: 26px
+    }
+    .section_404 {
+        padding-top: 122px
+    }
+    .section_404 .hgroup .heading_left h1 {
+        font-size: 80px;
+        line-height: 88px
+    }
+    .section_404 .hgroup .heading_left h1:after {
+        bottom: -5px;
+        width: 34px;
+        height: 6px;
+        margin-left: -17px
+    }
+    .section_404 .hgroup .skew_shape {
+        height: 110px
+    }
+    .section_404 .hgroup .heading_right {
+        padding: 5px 0 0 10px
+    }
+    .section_404 .hgroup h2 {
+        font-size: 32px;
+        line-height: 32px;
+        margin: 0 0 7px
+    }
+    .section_404 .hgroup h3 {
+        font-size: 18px;
+        line-height: 24px
+    }
+    .section_404 .hgroup p {
+        font-size: 13px;
+        line-height: 19px
+    }
+}
+
+@media screen and (max-width:900px) {
+    .mobile_nav_btn {
+        display: block!important
+    }
+    #top-nav.top-nav {
+        position: absolute;
+        z-index: 99999999999;
+        background-color: #215f9c;
+        left: 0;
+        width: 100%;
+        top: 65px
+    }
+    #top-nav.top-nav li a {
+        color: #fff;
+        padding: 10px
+    }
+    #top-nav.top-nav li.current {
+        background: none repeat scroll 0 0 #dcbf8d;
+        padding: 0!important
+    }
+    #top-nav>li {
+        position: relative;
+        width: 100%
+    }
+    #top-nav>li a {
+        margin: 0!important
+    }
+}
+
+@media screen and (max-width:767px) {
+    .testi_holder .col-sm-10 {
+        width: auto
+    }
+    .static_banner {
+        height: 496px!important
+    }
+    .fullwidthbanner.tp-simpleresponsive {
+        height: 495px!important;
+        margin-top: 0!important
+    }
+    .tp-bannertimer {
+        top: 90px!important
+    }
+    .menu-bar .logo {
+        margin: -23px -40px 0!important
+    }
+    .about_content_holder {
+        border-bottom: 1px solid #eee;
+        left: inherit!important;
+        margin: 0!important;
+        position: relative;
+        text-align: center
+    }
+    .feautured_services {
+        left: inherit;
+        margin-left: 0;
+        position: relative;
+        padding: 0 40px!important
+    }
+    #undefined-sticky-wrapper {
+        height: 0!important
+    }
+    .testi_holder .testi_single .avatar {
+        width: 136px
+    }
+    .testi_holder .testi_single .testi_text {
+        text-align: center;
+        float: left;
+        width: auto;
+        margin-left: 18px
+    }
+    .testi_holder .testi_single .testi_text h3 {
+        font-size: 16px;
+        line-height: 22px;
+        margin: 15px 0 20px
+    }
+    .testi_holder .testi_single .testi_text h5 {
+        font-size: 15px;
+        line-height: 24px
+    }
+    .testi_holder .owl-controls .owl-pagination {
+        display: inline-block;
+        float: none;
+        margin: 0 auto;
+        width: 136px;
+        overflow: hidden
+    }
+}
+
+@media screen and (max-width:480px) {
+    .circle_button {
+        font-size: 12px;
+        height: 100px;
+        margin-left: -50px;
+        padding: 35px 0 0 0;
+        width: 100px
+    }
+    .circle_button_bottom {
+        bottom: -50px
+    }
+    .circle_button_top {
+        top: -50px
+    }
+    .circle_button i {
+        color: rgba(153, 153, 153, .5);
+        display: block;
+        font-size: 16px;
+        margin-bottom: 0
+    }
+    .zee_curve_container {
+        overflow: visible
+    }
+    .zee_d_curve_container {
+        min-height: 320px
+    }
+    .zee_d_curve_container .container {
+        min-height: 320px
+    }
+    .zee_d_curve_container:before {
+        display: none
+    }
+    .zee_d_curve_container:after {
+        display: none
+    }
+    .zee_d_curve {
+        min-height: 320px
+    }
+    .zee_curve_container .container {
+        position: relative;
+        height: 100%
+    }
+    .curve_content {
+        padding: 50px 0;
+        height: 100%
+    }
+    .zee_b_curve_container .section_container {
+        padding-bottom: 50px
+    }
+    .zee_t_curve_container:before {
+        display: none
+    }
+    .zee_b_curve_container:after {
+        display: none
+    }
+    .curve_content {
+        padding: 50px 0;
+        height: 100%
+    }
+    .zee_t_curve_container.top_grey .zee_curve_left:before {
+        border-left: 610px solid #F2F2F2
+    }
+    .zee_b_curve_container.bottom_grey .zee_curve_right:before {
+        border-right: 610px solid #F2F2F2
+    }
+    blockquote.home_quote {
+        border: none;
+        font-size: 20px;
+        font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
+        line-height: 30px;
+        margin: 0;
+        padding: 0
+    }
+    blockquote.home_quote p {
+        color: #FFF;
+        display: inline;
+        font-size: 20px;
+        line-height: 30px
+    }
+    blockquote.home_quote strong {
+        color: #215f9c;
+        font-weight: 400
+    }
+    .curve_heading {
+        text-align: center
+    }
+    .curve_heading h4 {
+        font-size: 26px;
+        font-weight: 400;
+        margin-bottom: 37px
+    }
+    .zee_curve_container .video_holder {
+        margin: 82px 0
+    }
+    .zee_curve_container .testi_holder {
+        margin: 82px 0
+    }
+    .zee_curve_container .folio_stats {
+        margin: 82px 0
+    }
+    .static_banner {
+        height: 340px;
+        position: relative;
+        width: 100%
+    }
+    .text_banner_holder {
+        margin: 50px 0 0 0
+    }
+    .text_banner_holder .skew_shape {
+        height: 100px
+    }
+    .text_banner_holder .heading_wrap h2 {
+        font-size: 40px;
+        line-height: 43px
+    }
+    .text_banner_holder .heading_wrap h3 {
+        font-size: 16px;
+        line-height: 24px;
+        margin: 0 0 12px 0
+    }
+    .text_banner_holder .next_section a {
+        font-size: 40px;
+        line-height: 20px
+    }
+    .text_banner_holder .slim_text.heading_wrap h2 {
+        font-size: 30px;
+        line-height: 33px
+    }
+    .section_container {
+        padding-top: 50px;
+        padding-bottom: 50px
+    }
+    .section_container .hgroup .heading_cover {
+        text-align: center;
+        width: 100%
+    }
+    .section_container .hgroup .skew_holder {
+        display: none
+    }
+    .section_container .hgroup h2 {
+        border-bottom: 2px solid #999;
+        display: inline-block;
+        font-size: 22px;
+        padding-bottom: 10px;
+        line-height: 22px;
+        overflow: hidden
+    }
+    .section_container .hgroup h3 {
+        font-size: 13px;
+        line-height: 18px
+    }
+    .work_nav ul {
+        text-align: center
+    }
+    .work_nav ul li {
+        display: inline-block;
+        float: none;
+        overflow: hidden
+    }
+    .work_listing .work_item .single_work {
+        width: auto;
+        max-width: 390px
+    }
+    .view .links {
+        margin: 0 0 41px 0;
+        padding: 20px 20px 0 0
+    }
+    .view .work_detail h3 {
+        font-size: 22px;
+        line-height: 28px
+    }
+    .member_basic {
+        padding: 10px 5px
+    }
+    .member_basic .member_name {
+        font-size: 13px;
+        line-height: 15px
+    }
+    .member_basic .member_designation {
+        display: none
+    }
+    .post .featured_image.video_post .play-button {
+        bottom: 24px;
+        height: 42px;
+        right: 24px;
+        width: 42px
+    }
+    .post .featured_image.video_post .play-button:before {
+        font-size: 14px;
+        line-height: 38px
+    }
+    .contact_info .fa {
+        font-size: 82px;
+        line-height: 82px;
+        margin-bottom: 15px
+    }
+    .google_map {
+        height: 354px
+    }
+    .map_mask {
+        height: 60px
+    }
+    footer {
+        text-align: center
+    }
+    ul.sm_links {
+        display: inline-block;
+        float: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        vertical-align: bottom
+    }
+    .page_nav {
+        margin-left: 0
+    }
+    .blog_listing .post .vjs-poster {
+        height: 100%
+    }
+    .blog_listing .post .featured_image .vjs-default-skin .vjs-big-play-button {
+        bottom: 24px;
+        height: 42px;
+        right: 24px;
+        width: 42px
+    }
+    .blog_listing .post .featured_image .vjs-default-skin div.vjs-big-play-button span:before {
+        font-size: 14px;
+        line-height: 38px
+    }
+    #comments_section {
+        margin-left: 0
+    }
+    #comments .commentlist .comment .clearing-container img {
+        width: 60px;
+        height: 60px
+    }
+    #comments .commentlist .children {
+        margin: 0 0 0 40px
+    }
+    #comments .clearing-container .comment_block {
+        margin: -14px 0 0 80px
+    }
+    .section_404 {
+        padding-top: 82px
+    }
+    .section_404 .hgroup .heading_left {
+        width: 100%
+    }
+    .section_404 .hgroup .heading_left h1 {
+        display: inline-block;
+        border-bottom: 2px solid #999;
+        padding: 0 0 20px;
+        margin: 0 0 12px
+    }
+    .section_404 .hgroup .heading_left h1:after {
+        bottom: 18px;
+        width: 34px;
+        height: 6px;
+        margin-left: -17px
+    }
+    .section_404 .hgroup .skew_shape {
+        display: none
+    }
+    .section_404 .hgroup .heading_right {
+        padding: 5px 0 0 10px;
+        width: 100%;
+        text-align: center
+    }
+    .section_404 .hgroup h2 {
+        font-size: 32px;
+        line-height: 32px;
+        margin: 0 0 7px
+    }
+    .section_404 .hgroup h3 {
+        font-size: 18px;
+        line-height: 24px
+    }
+    .section_404 .hgroup p {
+        font-size: 13px;
+        line-height: 19px
+    }
+}
+
+@media screen and (min-width:300px) and (max-width:480px) {
+	
+	.socialBox .inner  iframe
+	{
+		/*display: none !important;*/
+	}
+	.socialBox {
+    padding: 0 10px 30px;
+}
+	 .socialBox .inner::after{
+		z-index: 9;
+		     height: 83%;
+	}
+	.socialBox:first-child .inner > iframe
+	{
+	    overflow: hidden;
+    /*height: 70px;*/
+		display: block !important;
+	}
+	
+	.socialBox .inner .socialHeader iframe
+	{
+		display: inline-block !important;
+	}
+	
+	
+    #sec-inner .heading_wrap {
+        padding-left: 0
+    }
+    #sec-inner .heading_wrap .highlight {
+        font-size: 14px;
+        line-height: 17px;
+        top: 15px;
+        width: 100%
+    }
+    #sec-inner .static_banner {
+        height: 180px!important
+    }
+    html .vector_background {
+        padding-top: 30px!important
+    }
+    .section_container .title2 h2,
+    .title2 h2 {
+        font-size: 45px;
+        line-height: 40px!important
+    }
+    .sevicesSection .circlebg {
+        bottom: -10px;
+        height: 300px;
+        margin-top: 75px;
+        padding: 30px 40px 0;
+        width: 120%;
+        margin-bottom: -5px
+    }
+    .service1,
+    .service2,
+    .service3,
+    .service4 {
+        float: left;
+        left: 0;
+        padding: 0;
+        position: relative;
+        top: -115px;
+        width: auto
+    }
+    .service1 .item,
+    .service2 .item,
+    .service3 .item,
+    .service4 .item {
+        padding: 0 10px
+    }
+    .service5 {
+        left: -30px;
+        top: 36px
+    }
+    .service6 {
+        right: 207px;
+        top: -15px
+    }
+    .service7 {
+        right: 143px;
+        top: -36px
+    }
+    .service8 {
+        right: 76px;
+        top: -38px
+    }
+    .service9 {
+        right: 20px;
+        top: -6px
+    }
+    .service10 {
+        right: -24px;
+        top: 41px
+    }
+    #team .right-hover-text .service_single.full.service_get {
+        margin-left: -10%
+    }
+    #team .video_holder {
+        margin: 0 auto;
+        width: 300px
+    }
+    html .content_bar h2 {
+        font-size: 18px;
+        line-height: 23px
+    }
+    .design3::before,
+    .design3::after {
+        opacity: .2
+    }
+    .design3 {
+        padding-top: 65px
+    }
+    .col-md-6.teambox {
+        float: none;
+        clear: both
+    }
+    .borderbox {
+        height: 252px;
+        margin: -100px 0 0;
+        position: relative;
+        width: 100%;
+        left: 0
+    }
+    .aboutimg {
+        float: none;
+        position: relative;
+        width: 190px;
+        z-index: -1;
+        margin: 0 auto
+    }
+    .borderbox-design {
+        padding: 10px 45px 10px 10px
+    }
+    .imgright .borderbox .borderbox-design {
+        padding: 10px 10px 10px 45px
+    }
+    .filterDiv {
+        display: none;
+        float: left
+    }
+    .click-btn {
+        display: block
+    }
+    .filterDiv li {
+        float: left;
+        padding: 0;
+        width: 100%
+    }
+    .filterDiv li a {
+        border-bottom: 1px solid #ccc;
+        min-height: 50px;
+        padding: 5px;
+        text-align: center;
+        width: 100%
+    }
+    .filterDiv li:first-child span {
+        padding-top: 0
+    }
+    .filterDiv li span {
+        display: inline-block;
+        padding-left: 14px;
+        padding-top: 0;
+        width: auto
+    }
+    .filterDiv li.bigWidth {
+        width: 100%
+    }
+    .projects .filterContainer .service_single .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .filterDiv li a::before {
+        display: none
+    }
+    .proj-inner {
+        padding-bottom: 120px
+    }
+    html .inner_pages_header .container>h2 {
+        background-color: #fff;
+        border-bottom: 1px solid #ccc;
+        bottom: -120px;
+        font-size: 13px;
+        height: 120px;
+        left: 0;
+        min-width: auto;
+        padding: 0 10px;
+        width: 100%
+    }
+    html .inner_pages_header .container h2 small {
+        color: #333
+    }
+    .projects .service_single.width1 .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .borderbox3::before {
+        height: 80px
+    }
+    .projects .service_single.full {
+        margin-bottom: 10px
+    }
+    .projects .service_single .icon_holder .icon_shape {
+        height: auto!important;
+        background-size: 130% auto
+    }
+    .borderbox3::after {
+        background-size: 155% auto;
+        height: 50px
+    }
+    .about_wedding .wedding_slides {
+        left: -27px;
+        margin-left: 0
+    }
+    .inner_pages_header .about_wedding .motif3 {
+        margin-bottom: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+        overflow: visible;
+        width: 300px
+    }
+    .col-xs-offset-1,
+    .col-xs-offset-2 {
+        margin-left: 0
+    }
+    .inner_pages_header #sec-about {
+        padding-top: 15px
+    }
+    html .inner_pages_header .celebrities .single_portfolio .service_single .icon_holder .icon_shape {
+        height: auto!important;
+        min-height: auto!important;
+        padding: 10px
+    }
+    .media_cover::before,
+    .media_cover::after {
+        width: 150px;
+        height: 150px
+    }
+    .triangle-design2 {
+        margin-top: -30px
+    }
+    .flipboxStyle {
+        width: 100%
+    }
+    .flipboxStyle .item {
+        margin: 0 auto
+    }
+    .centerborder {
+        width: 100%
+    }
+    .career-cont .field_single {
+        display: inline-block;
+        width: 100%
+    }
+    .career-cont {
+        clear: both;
+        float: none;
+        padding: 10px
+    }
+    .lowerBorder_right {
+        width: 200px
+    }
+    .portfolioStyle {
+        width: 100%
+    }
+    .gridStyle2 .item.width1 {
+        width: 100%
+    }
+    .gridStyle2 .portfolioStyle .width2,
+    .gridStyle2 .portfolioStyle .width3,
+    .gridStyle2 .portfolioStyle .width4,
+    .gridStyle2 .portfolioStyle .width5 {
+        float: left;
+        width: 50%
+    }
+    .boxShadow1 {
+        text-align: center;
+        margin-left: 0
+    }
+    .articleDiv {
+        margin: 20px auto;
+        width: 90%
+    }
+    .articleDiv::after {
+        background-position: right top;
+        background-size: 100% auto;
+        bottom: 0;
+        height: 127px;
+        right: -50px;
+        width: 304px
+    }
+    .articleDiv {
+        z-index: 0
+    }
+    .news_media .projects .service_single.full {
+        margin: 0 auto 20px;
+        width: 90%
+    }
+    .gridStyle2 .portfolioInner {
+        padding: 0
+    }
+    .gridStyle2 .row.projects {
+        margin-top: 0
+    }
+    .container.smallcontainer {
+        width: 100%
+    }
+    .testimonials .text-left {
+        height: auto;
+        margin: 4px auto;
+        padding: 12px;
+        width: 100%;
+        padding: 12px 12px 30px
+    }
+    .testimonials .borderbox-design,
+    .testimonials.text-right .borderbox-design {
+        border: 1px solid #d2ae6d;
+        padding: 10px 10px 90px
+    }
+    .testimonials .borderbox2::before,
+    .testimonials.text-right .borderbox2::before,
+    .testimonials .borderbox2::after,
+    .testimonials.text-right .borderbox2::after {
+        background-image: none
+    }
+    .testimonials.text-right .borderbox-design::before {
+        bottom: 0;
+        left: 0;
+        top: inherit
+    }
+    .testimonials .about_content_holder h3 {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: inherit;
+        margin-bottom: 4px;
+        padding-top: 14px
+    }
+    .testimg {
+        bottom: 0;
+        padding-top: 0;
+        position: absolute;
+        right: 18px;
+        z-index: 9
+    }
+    .testimonials .rslides {
+        height: 110px;
+        width: 110px
+    }
+    .testimonials .rslides>li {
+        width: 160px
+    }
+    .testimonials .borderbox-design::before {
+        background-image: url(../images/bottm_left_pettles.png);
+        bottom: 0;
+        height: 126px;
+        left: 0;
+        top: inherit;
+        width: 121px
+    }
+    .contact_us .col-sm-7 {
+        height: 180px;
+        overflow: hidden;
+        width: 100%
+    }
+    .slantdesign::before {
+        display: none
+    }
+    .slantdesign::after {
+        border-width: 0 100px 100px;
+        left: 23%;
+        top: -100px
+    }
+    .contact_info {
+        display: inline-block;
+        left: 0;
+        margin: 0 auto!important;
+        width: 100%
+    }
+    .slantdesign {
+        min-height: auto;
+        padding: 35px 20px;
+        width: 100%
+    }
+    .brownbg {
+        min-height: 300px
+    }
+    .contact_form {
+        padding: 10px 0;
+        width: 100%
+    }
+    .sevicesSection .serviceRight .about_right {
+        display: none
+    }
+    #cboxContent .col-sm-6 {
+        width: 100%
+    }
+    .popUps h3 {
+        font-size: 15px
+    }
+    .menu-bar .main-nav ul li.current a {
+        color: #215f9c!important
+    }
+    .success_container {
+        margin: 0 auto;
+        width: 90%;
+        padding: 10px
+    }
+    .success_container .service_single {
+        width: 100%;
+        display: inline-block;
+        margin: 0;
+        padding: 0
+    }
+    .zee_d_curve_bg1 .hgroup h2 {
+        margin: 0!important
+    }
+    .successBox {
+        margin-top: -95px
+    }
+    .imageBox {
+        width: 100%
+    }
+    .designbox {
+        height: auto;
+        width: 100%
+    }
+    .event_details>li {
+        text-align: left
+    }
+    .calendar {
+        left: 0
+    }
+    .content_box h2 {
+        font-size: 15px;
+        margin-top: 10px
+    }
+    .content_box .col-md-10 {
+        float: left;
+        width: 90%
+    }
+    .content_box .col-md-2 {
+        float: left;
+        width: 10%;
+        padding: 0
+    }
+    .content_box>p {
+        min-height: auto
+    }
+    .content_box {
+        border-bottom: 1px solid #ccc;
+        padding-left: 0;
+        width: 100%;
+        text-align: left
+    }
+    .decor_class {
+        padding-left: 10px;
+        padding-top: 0;
+        clear: both
+    }
+    .tp-bullets.simplebullets.round {
+        bottom: 100px!important
+    }
+    html .services_section {
+        margin-bottom: 0
+    }
+    .sliding-services .item {
+        padding: 0 10px!important
+    }
+    #portfolio_wrapper {
+        padding: 10px 0!important
+    }
+    .pattern_img {
+        opacity: .2
+    }
+    .decor_class p:not(.subheader) {
+        width: 100%
+    }
+    .about_wedding,
+    .about_wedding .section_container {
+        padding: 0
+    }
+    .about_header {
+        margin-top: 0;
+        padding: 0
+    }
+    .decor_class {
+        clear: both;
+        float: left;
+        height: auto;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 0;
+        width: 100%
+    }
+    .margin_left_60 {
+        margin-left: 0
+    }
+    .news_section .service_single.full {
+        display: inline-block;
+        width: 100%
+    }
+    #videoContainer iframe {
+        height: 359px!important;
+        left: -1px;
+        position: relative;
+        top: 0;
+        width: 100%
+    }
+    .mediaBox::before {
+        border-bottom: 30px solid #fff;
+        border-left: 30px solid transparent;
+        border-right: 30px solid transparent;
+        border-top: 0 solid transparent;
+        bottom: 0;
+        left: 42%;
+        width: 0;
+        height: 0
+    }
+    .mediaBox::after {
+        border-bottom: 50px solid #d7b56d;
+        border-left: 50px solid transparent;
+        border-right: 50px solid transparent;
+        border-top: 0 solid transparent;
+        bottom: 0;
+        left: 38%;
+        width: 0;
+        height: 0
+    }
+    .caption_vdo {
+        display: none
+    }
+    .mediaBox {
+        height: 359px;
+        top: 0;
+        width: 100%
+    }
+    .section_container.decor_style {
+        padding: 0
+    }
+    .homepageMedia .bullet-white {
+        top: 56px!important
+    }
+    .text_banner_holder1 {
+        border-width: 497px 563px 0 0!important;
+        left: 0!important;
+        position: fixed!important;
+        top: 0!important
+    }
+    .motif-about1::before {
+        left: -92px!important
+    }
+    .motif-about1 .wedding_slides_about {
+        left: 22px!important;
+        position: relative;
+        top: -6px!important
+    }
+    .motif-about1 .text-center {
+        width: 270px
+    }
+    html .caption.lft.small_white strong {
+        font-family: "Italianno", cursive;
+        font-size: 47px;
+        font-weight: 700;
+        line-height: 37px;
+        margin-top: 5px;
+        position: relative;
+        top: 8px
+    }
+    html .caption.lft.small_white.start>span {
+        display: block;
+        font-size: 29px;
+        line-height: 26px
+    }
+    html .caption.lft.small_white.start {
+        right: 4%!important;
+        top: 300px!important;
+        font-size: 25px!important
+    }
+    .logo img {
+        bottom: 70px;
+        left: 40px;
+        position: absolute;
+        width: 125px
+    }
+    .logo .floral_bg img {
+        width: 200px;
+        left: -4px!important
+    }
+    .logo .rotator>img {
+        bottom: 36px;
+        left: 0;
+        width: 220px
+    }
+    .menu-bar .logo {
+        background: url(../images/logo-bg.png) no-repeat scroll 0 0 / 97% auto rgba(0, 0, 0, 0);
+        float: left;
+        height: 300px;
+        margin: -37px 0 0!important;
+        position: absolute;
+        top: -110px;
+        width: 312px;
+        left: -32px
+    }
+    .sticky-wrapper.is-sticky .menu-bar {
+        height: 81px!important
+    }
+    .sticky-bar .main_logo {
+        width: 127px
+    }
+    .sticky-bar .logo {
+        top: -104px;
+        width: 293px;
+        height: 293px
+    }
+    .zee_curve_container .zee_curve_left {
+        left: -447px;
+        top: -215px;
+        transform: rotate(-21.7deg);
+        z-index: 903
+    }
+    .zee_curve_container .zee_curve_right {
+        bottom: -200px
+    }
+    .section_container .hgroup h2 {
+        border-bottom: 2px solid #999;
+        display: inline-block;
+        font-size: 37px;
+        line-height: 59px;
+        overflow: hidden;
+        padding-bottom: 10px
+    }
+    .section_container .hgroup {
+        margin-bottom: 5px
+    }
+    .service_single .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .mob-half-wid .service_right {
+        width: 84%
+    }
+    .mob-half-wid .icon_holder {
+        float: left;
+        width: 20%
+    }
+    .mob-half-wid.service_single .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .motif2 {
+        background: url(../images/media-bg.png) no-repeat scroll 10px 10px rgba(0, 0, 0, 0);
+        height: 500px;
+        margin-left: -19px;
+        margin-top: 0;
+        overflow: visible;
+        position: absolute;
+        width: 500px;
+        z-index: 2147483647;
+        top: 66%;
+        background-size: 100%
+    }
+    .motif-circle {
+        width: 330px;
+        height: auto
+
+    }
+    footer .sm_links.align_center {
+        position: relative;
+        top: 0;
+        display: inline-block
+    }
+    .feautured_services .owl-carousel .owl-item {
+        padding-left: 23px
+    }
+    .top_border .sm_links.align_center {
+        position: absolute;
+        right: 12px;
+        top: 2px
+    }
+    ul.sm_links li a {
+        border-bottom: 4px solid transparent;
+        border-right: 1px solid #ff8181;
+        color: #fff;
+        float: left;
+        width: 26px
+    }
+    .heading_wrap strong {
+        color: #fff;
+        font-family: "Italianno", cursive;
+        font-size: 31px!important;
+        line-height: 27px
+    }
+    .zee_curve_container .about_bg .zee_curve_right {
+        bottom: -214px!important;
+        right: -484px!important
+    }
+    .petal-box {
+        display: none
+    }
+    #team .icon_shape {
+        background: none repeat scroll 0 0 transparent;
+        border: 1px solid #926e2d;
+        border-radius: 50%;
+        height: 55px!important;
+        overflow: hidden;
+        margin-bottom: 15px;
+        width: 55px
+    }
+    #team .service_single .icon_holder .icon_shape i {
+        color: #fff;
+        font-size: 27px;
+        line-height: 41px;
+        margin-top: 7px;
+        transition: all 0.3s ease 0s
+    }
+    #team .service_single .icon_holder .icon_shape img {
+        width: 23px;
+        margin-top: 9px
+    }
+    #team .about_right {
+        display: none
+    }
+    #sec-inner .about_right {
+        display: none
+    }
+    .right-hover-text {
+        position: absolute;
+        top: 0;
+        width: 73%;
+        height: auto;
+        right: 9%
+    }
+    .circlea {
+        background: none repeat scroll 0 0 #fff;
+        border: 10px solid #d2ae6d;
+        border-radius: 0;
+        height: 100%;
+        left: 28%;
+        position: absolute;
+        top: 0;
+        width: 1000px
+    }
+    #team .col-xs-12.heading_cover>h2 {
+        border-bottom: 1px solid #eee;
+        color: #215f9c;
+        font-size: 24px;
+        left: 45px;
+        position: relative;
+        line-height: 34px;
+        top: 25px
+    }
+    #team .service_single {
+        margin-bottom: -10px;
+        padding-bottom: 0
+    }
+    .service_get {
+        display: inline-block;
+        position: relative;
+        top: 41px;
+        width: 97%;
+        left: 27px
+    }
+    .service_right {
+        top: 0!important;
+        right: 0!important
+    }
+    .post {
+        display: inline-block;
+        overflow: hidden
+    }
+    .post .post_content {
+        padding-left: 0;
+        padding-top: 20px
+    }
+    .text-right {
+        text-align: left!important
+    }
+    .sm_links li:first-child {
+        display: none
+    }
+    .proj-inner .static_banner {
+        height: 300px!important
+    }
+    .inner_pages_header .proj-inner .main_banner>img {
+        display: block;
+        width: 257%
+    }
+    .inner_pages_header .container>h2 {
+        bottom: 33px;
+        font-size: 13px;
+        font-weight: 300;
+        left: 3px;
+        line-height: normal;
+        margin-left: 0;
+        margin-top: 0;
+        min-width: 430px;
+        position: absolute;
+        text-align: left;
+        text-transform: uppercase;
+        z-index: 99999999
+    }
+    .inner_pages_header .container h2 small {
+        color: #fff;
+        display: block;
+        margin-top: 10px;
+        position: absolute;
+        left: 0;
+        text-transform: none
+    }
+    .inner_pages_header .proj-inner .main_banner>img {
+        display: block;
+        left: -385px;
+        position: absolute;
+        top: 73px;
+        width: 251%
+    }
+    .inner_pages_header .about_content_holder h3 {
+        font-size: 15px!important;
+        text-align: left
+    }
+    .feautured_services.sliding-services {
+        left: inherit;
+        margin-left: 0;
+        padding: 0 0px!important;
+        position: relative
+    }
+    .inner_pages_header .single_portfolio .service_single .icon_holder .icon_shape {
+        height: auto;
+        min-height: 180px!important
+    }
+    .celebrities .service_single {
+        margin-bottom: 0;
+        overflow: hidden;
+        text-align: center
+    }
+    .about_wedding .motif2 {
+        left: -16px;
+        margin-left: 0;
+        top: 58%
+    }
+    .video_list>li {
+        display: block;
+        float: left;
+        position: relative;
+        width: 30%;
+        z-index: 9
+    }
+    .video_list {
+        display: inline-block
+    }
+    .media_list>li {
+        float: left;
+        margin-bottom: 19px;
+        margin-right: 41px;
+        width: 100%
+    }
+    .behind_the_scene_list li.col-md-3 {
+        float: left;
+        margin-left: -9px;
+        width: 50%
+    }
+    .getintouch input {
+        width: 100%
+    }
+    .getintouch input[type="submit"] {
+        width: 100%
+    }
+    .guest_comment li {
+        display: inline-flex
+    }
+    ul.guest_comment li>img {
+        border: 4px solid #ccc;
+        border-radius: 50%;
+        display: inline-block;
+        float: left;
+        height: 92px;
+        width: 92px
+    }
+    .featured_box_content .meta_holder {
+        padding-left: 61px;
+        padding-top: 17px;
+        text-align: left
+    }
+    #container.masonry {
+        margin-top: 0!important
+    }
+    footer .sm_links li:first-child {
+        display: block
+    }
+    .contact_info .fa {
+        font-size: 35px!important;
+        line-height: 48px!important;
+        margin-bottom: 15px
+    }
+    .about_right>h4 {
+        color: #fff;
+        font-size: 17px;
+        font-weight: 300;
+        padding-bottom: 7px;
+        text-align: center
+    }
+    .portfolio_listing .single_portfolio {
+        margin-left: 0
+    }
+    .col-sm-10.feautured_services.sliding-services {
+        padding-bottom: 40px;
+        display: block;
+        margin-bottom: 18px;
+        float: left
+    }
+    .portfolio_listing.owl-carousel.owl-theme {
+        padding: 10px 0
+    }
+    .section_container .hgroup h2,
+    .section_container .hgroup .about_header h2 {
+        border-bottom: 2px solid #999;
+        display: inline-block;
+        font-size: 57px;
+        line-height: 35px;
+        overflow: hidden;
+        padding-top: 20px;
+        margin-top: 40px;
+        border: 0
+    }
+    .subheader {
+        font-size: 15px
+    }
+}
+
+@media screen and (min-width:430px) and (max-width:480px) {
+    .flipboxStyle .item {
+        float: left;
+        margin: 0 auto
+    }
+}
+
+@media screen and (min-width:390px) and (max-width:480px) {
+    .text_banner_holder1 {
+        border-width: 554px 629px 0 0!important;
+        left: 0!important;
+        position: fixed!important;
+        top: 0!important
+    }
+    .section_container .hgroup h2 {
+        border-bottom: 2px solid #999;
+        display: inline-block;
+        font-size: 57px;
+        line-height: 35px;
+        overflow: hidden;
+        padding-top: 20px;
+        margin-top: 40px;
+        border: 0
+    }
+    .inner_pages_header .proj-inner .main_banner>img {
+        display: block;
+        left: -385px;
+        position: absolute;
+        top: 73px;
+        width: 221%
+    }
+    .inner_pages_header .single_portfolio .service_single .icon_holder .icon_shape {
+        height: auto;
+        min-height: 180px!important
+    }
+    .motif2 {
+        background: url(../images/media-bg.png) no-repeat scroll 10px 10px / 100% auto rgba(0, 0, 0, 0);
+        height: 500px;
+        margin-left: -33px;
+        margin-top: 0;
+        overflow: visible;
+        position: absolute;
+        top: 63%;
+        width: 557px;
+        z-index: 2147483647
+    }
+    .about_wedding .motif2 {
+        left: -32px;
+        margin-left: 0;
+        top: 53%
+    }
+    .motif-circle {
+        width: 330px;
+        height: auto
+    }
+    .about_wedding .motif2 {
+        left: -32px;
+        margin-left: 0;
+        top: 49%
+    }
+    .circlea {
+        height: 100%;
+        left: 23%;
+        position: absolute;
+        top: 0;
+        width: 1000px
+    }
+    .service_get {
+        display: inline-block;
+        position: relative;
+        top: 41px;
+        width: 97%;
+        left: 27px
+    }
+    .service_right {
+        top: 0!important;
+        right: 0!important
+    }
+    .post {
+        display: inline-block;
+        overflow: hidden
+    }
+    .post .post_content {
+        padding-left: 0;
+        padding-top: 20px
+    }
+    .guest_comment li {
+        display: inline-flex
+    }
+}
+
+@media screen and (min-width:481px) and (max-width:510px) {
+    .about_wedding .motif2 {
+        left: -32px;
+        margin-left: 0;
+        top: 50%!important
+    }
+}
+
+@media screen and (min-width:481px) and (max-width:600px) {
+	.socialBox .inner  iframe
+	{
+		/*display: none !important;*/
+	}
+	.socialBox {
+    padding: 0 10px 30px;
+}
+	 .socialBox .inner::after{
+		z-index: 9;
+		     height: 83%;
+	}
+	.socialBox:first-child .inner > iframe
+	{
+	    overflow: hidden;
+    /*height: 70px;*/
+		display: block !important;
+	}
+	
+	.socialBox {
+    padding: 0 5px 30px;
+    width: 340px;
+    float: none;
+    margin: 0 auto;
+}
+    .popUps h3 {
+        font-size: 15px
+    }
+    .col-sm-5.service_single.news_and_media.videoSection {
+        overflow: inherit;
+        margin-left: 10px
+    }
+    .text_banner_holder1 {
+        border-width: 582px 723px 0 0!important;
+        left: 0!important;
+        position: fixed!important;
+        top: 0!important
+    }
+    html .caption.lft.small_white strong {
+        font-family: "Italianno", cursive;
+        font-size: 47px;
+        font-weight: 700;
+        line-height: 37px;
+        margin-top: 5px;
+        position: relative;
+        top: 8px
+    }
+    html .caption.lft.small_white.start>span {
+        display: block;
+        font-size: 29px;
+        line-height: 26px
+    }
+    html .caption.lft.small_white.start {
+        right: 4%!important;
+        top: 300px!important;
+        font-size: 25px!important
+    }
+    .logo img {
+        bottom: 70px;
+        left: 40px;
+        position: absolute;
+        width: 125px
+    }
+    .logo .floral_bg img {
+        width: 200px;
+        left: -4px!important
+    }
+    .logo .rotator>img {
+        bottom: 36px;
+        left: 0;
+        width: 220px
+    }
+    .sliding-services .item {
+        padding: 0 10px!important
+    }
+    #portfolio_wrapper {
+        padding: 10px 0!important
+    }
+    .pattern_img {
+        opacity: .2
+    }
+    .tp-bullets.simplebullets.round {
+        bottom: 110px!important
+    }
+    .portfolio_listing::before {
+        right: 50%
+    }
+    .portfolio_listing::after {
+        display: none
+    }
+    .about_wedding,
+    .about_wedding .section_container {
+        padding: 0
+    }
+    .section_container .hgroup h2,
+    .section_container .hgroup .about_header h2 {
+        font-size: 50px;
+        padding-top: 20px
+    }
+    .subheader {
+        font-size: 16px
+    }
+    .item p {
+        padding: 0
+    }
+    .about_header {
+        margin-top: 20px;
+        padding: 0
+    }
+    .success_container {
+        margin: 0 auto;
+        padding: 10px;
+        width: 90%
+    }
+    .successBox {
+        margin-top: -165px
+    }
+    .imageBox {
+        width: 100%
+    }
+    .designbox {
+        height: auto;
+        width: 100%
+    }
+    .event_details>li {
+        text-align: left
+    }
+    .calendar {
+        left: 0
+    }
+    .content_box h2 {
+        font-size: 15px;
+        margin-top: 10px
+    }
+    .content_box .col-md-10 {
+        float: left;
+        width: 90%
+    }
+    .content_box .col-md-2 {
+        float: left;
+        width: 10%;
+        padding: 0
+    }
+    .content_box>p {
+        min-height: auto
+    }
+    .content_box {
+        border-bottom: 1px solid #ccc;
+        padding-left: 0;
+        width: 100%;
+        text-align: left
+    }
+    .zee_d_curve {
+        min-height: 410px
+    }
+    #videoContainer iframe {
+        height: 359px!important;
+        left: -1px;
+        position: relative;
+        top: 0;
+        width: 100%
+    }
+    .mediaBox::before {
+        border-bottom: 30px solid #fff;
+        border-left: 30px solid transparent;
+        border-right: 30px solid transparent;
+        border-top: 0 solid transparent;
+        bottom: 0;
+        left: 42%;
+        width: 0;
+        height: 0
+    }
+    .mediaBox::after {
+        border-bottom: 50px solid #d7b56d;
+        border-left: 50px solid transparent;
+        border-right: 50px solid transparent;
+        border-top: 0 solid transparent;
+        bottom: 0;
+        left: 38%;
+        width: 0;
+        height: 0
+    }
+    .caption_vdo {
+        display: none
+    }
+    .mediaBox {
+        height: 359px;
+        top: 0;
+        width: 100%
+    }
+    .decor_class {
+        clear: both;
+        float: left;
+        height: auto;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 0;
+        width: 100%
+    }
+    .margin_left_60 {
+        margin-left: 0
+    }
+    .news_section .service_single.full {
+        display: inline-block;
+        width: 100%
+    }
+    .section_container.decor_style {
+        padding: 0
+    }
+    .service_single .service_right h4 {
+        text-align: center
+    }
+    .menu-bar .main-nav ul li.current a {
+        color: #215f9c!important
+    }
+    #sec-inner .heading_wrap {
+        padding-left: 0
+    }
+    #sec-inner .heading_wrap .highlight {
+        font-size: 14px;
+        line-height: 17px;
+        top: 15px;
+        width: 100%
+    }
+    #sec-inner .static_banner {
+        height: 180px!important;
+        margin-top: 0
+    }
+    html .vector_background {
+        padding-top: 30px!important
+    }
+    .section_container .title2 h2,
+    .title2 h2 {
+        font-size: 45px;
+        line-height: 40px!important
+    }
+    .sevicesSection .circlebg {
+        bottom: -10px;
+        height: 300px;
+        margin-bottom: -5px;
+        margin-top: 0;
+        padding: 30px 40px 0;
+        width: 120%
+    }
+    .service_single.full .service_right {
+        width: 100%!important
+    }
+    .service_right>p {
+        line-height: normal
+    }
+    #team .right-hover-text .service_single.full.service_get {
+        margin-left: -10%
+    }
+    #team .video_holder {
+        margin: 0 auto;
+        width: 365px
+    }
+    .service1 {
+        bottom: 0;
+        left: -71px
+    }
+    .service2 {
+        bottom: 75px;
+        left: -67px
+    }
+    .service3 {
+        left: -40px;
+        top: 65px
+    }
+    .service4 {
+        left: 15px;
+        top: 5px
+    }
+    .service5 {
+        left: 100px;
+        top: -35px
+    }
+    .service6 {
+        right: 100px;
+        top: -33px
+    }
+    .service7 {
+        right: 15px;
+        top: 5px
+    }
+    .service8 {
+        right: -40px;
+        top: 65px
+    }
+    .service9 {
+        bottom: 75px;
+        right: -67px
+    }
+    .service10 {
+        bottom: 0;
+        right: -71px
+    }
+    html .content_bar h2 {
+        font-size: 18px;
+        line-height: 23px
+    }
+    .design3::before,
+    .design3::after {
+        opacity: .2
+    }
+    .design3 {
+        padding-top: 65px
+    }
+    .col-md-6.teambox {
+        float: none;
+        clear: both
+    }
+    .borderbox {
+        width: 78%
+    }
+    .aboutimg {
+        bottom: 0;
+        margin-left: -70px;
+        width: 172px
+    }
+    .imgright .aboutimg {
+        right: -76px;
+        width: 200px
+    }
+    .borderbox-design {
+        padding: 10px 45px 10px 10px
+    }
+    .imgright .borderbox .borderbox-design {
+        padding: 10px 10px 10px 45px
+    }
+    .filterDiv {
+        display: none;
+        float: left
+    }
+    .click-btn {
+        display: block
+    }
+    .filterDiv li {
+        float: left;
+        padding: 0;
+        width: 100%
+    }
+    .filterDiv li a {
+        border-bottom: 1px solid #ccc;
+        min-height: 50px;
+        padding: 5px;
+        text-align: center;
+        width: 100%
+    }
+    .filterDiv li:first-child span {
+        padding-top: 0
+    }
+    .filterDiv li span {
+        display: inline-block;
+        padding-left: 14px;
+        padding-top: 0;
+        width: auto
+    }
+    .filterDiv li.bigWidth {
+        width: 100%
+    }
+    .projects .filterContainer .service_single .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .filterDiv li a::before {
+        display: none
+    }
+    .proj-inner {
+        padding-bottom: 120px
+    }
+    html .inner_pages_header .container>h2 {
+        background-color: #fff;
+        border-bottom: 1px solid #ccc;
+        bottom: -120px;
+        font-size: 13px;
+        height: 120px;
+        left: 0;
+        min-width: auto;
+        padding: 0 10px;
+        width: 100%
+    }
+    html .inner_pages_header .container h2 small {
+        color: #333
+    }
+    .projects .service_single.width1 .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .borderbox3::before {
+        height: 80px
+    }
+    .projects .service_single.full {
+        margin-bottom: 10px
+    }
+    .projects .service_single .icon_holder .icon_shape {
+        height: auto!important;
+        background-size: 130% auto
+    }
+    .borderbox3::after {
+        height: 50px
+    }
+    .about_wedding .wedding_slides {
+        left: -27px;
+        margin-left: 0
+    }
+    .inner_pages_header .about_wedding .motif3 {
+        margin-bottom: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+        overflow: visible;
+        width: 300px
+    }
+    .col-xs-offset-1,
+    .col-xs-offset-2 {
+        margin-left: 0
+    }
+    .inner_pages_header #sec-about {
+        padding-top: 15px
+    }
+    html .inner_pages_header .celebrities .single_portfolio .service_single .icon_holder .icon_shape {
+        height: auto!important;
+        min-height: auto!important;
+        padding: 10px
+    }
+    .media_cover::before,
+    .media_cover::after {
+        width: 150px;
+        height: 150px
+    }
+    .triangle-design2 {
+        margin-top: -30px
+    }
+    .flipboxStyle {
+        width: 402px
+    }
+    .flipboxStyle .item {
+        margin: 0 auto;
+        float: left
+    }
+    .centerborder {
+        width: 100%
+    }
+    .career-cont .field_single {
+        display: inline-block;
+        width: 100%
+    }
+    .career-cont {
+        clear: both;
+        float: none;
+        padding: 10px
+    }
+    .lowerBorder_right {
+        width: 200px
+    }
+    .portfolioStyle {
+        width: 100%
+    }
+    .gridStyle2 .item.width1 {
+        width: 100%
+    }
+    .gridStyle2 .portfolioStyle .width2,
+    .gridStyle2 .portfolioStyle .width3,
+    .gridStyle2 .portfolioStyle .width4,
+    .gridStyle2 .portfolioStyle .width5 {
+        float: left;
+        width: 50%
+    }
+    .boxShadow1 {
+        text-align: center;
+        margin-left: 0
+    }
+    .articleDiv {
+        margin: 20px auto;
+        width: 90%
+    }
+    .articleDiv::after {
+        background-position: right top;
+        background-size: 100% auto;
+        bottom: 0;
+        height: 127px;
+        right: -50px;
+        width: 304px
+    }
+    .articleDiv {
+        z-index: 0
+    }
+    .news_media .projects .service_single.full {
+        float: left;
+        margin: 0 0 0 1%;
+        width: 49%
+    }
+    .gridStyle2 .portfolioInner {
+        padding: 0
+    }
+    .gridStyle2 .row.projects {
+        margin-top: 0
+    }
+    .container.smallcontainer {
+        width: 100%
+    }
+    .testimonials .text-left {
+        height: auto;
+        margin: 4px auto;
+        padding: 12px;
+        width: 100%;
+        padding: 12px 12px 30px
+    }
+    .testimonials .borderbox-design,
+    .testimonials.text-right .borderbox-design {
+        border: 1px solid #d2ae6d;
+        padding: 10px 10px 90px
+    }
+    .testimonials .borderbox2::before,
+    .testimonials.text-right .borderbox2::before,
+    .testimonials .borderbox2::after,
+    .testimonials.text-right .borderbox2::after {
+        background-image: none
+    }
+    .testimonials.text-right .borderbox-design::before {
+        bottom: 0;
+        left: 0;
+        top: inherit
+    }
+    .testimonials .about_content_holder h3 {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: inherit;
+        margin-bottom: 4px;
+        padding-top: 14px
+    }
+    .testimg {
+        bottom: 0;
+        padding-top: 0;
+        position: absolute;
+        right: 18px;
+        z-index: 9
+    }
+    .testimonials .rslides {
+        height: 110px;
+        width: 110px
+    }
+    .testimonials .rslides>li {
+        width: 160px
+    }
+    .testimonials .borderbox-design::before {
+        background-image: url(../images/bottm_left_pettles.png);
+        bottom: 0;
+        height: 126px;
+        left: 0;
+        top: inherit;
+        width: 121px
+    }
+    .contact_us .col-sm-7 {
+        height: 180px;
+        overflow: hidden;
+        width: 100%
+    }
+    .slantdesign::before {
+        display: none
+    }
+    .slantdesign::after {
+        border-width: 0 100px 100px;
+        left: 23%;
+        top: -100px
+    }
+    .contact_info {
+        display: inline-block;
+        left: 0;
+        margin: 0 auto!important;
+        width: 100%
+    }
+    .slantdesign {
+        min-height: auto;
+        padding: 35px 20px;
+        width: 100%
+    }
+    .brownbg {
+        min-height: 300px
+    }
+    .contact_form {
+        padding: 10px 0;
+        width: 100%
+    }
+    .sevicesSection .serviceRight .about_right {
+        display: none
+    }
+    .news_media .service_single .icon_holder .icon_shape {
+        height: 140px!important
+    }
+    .post.small_date .post_content .date_holder::before {
+        border-width: 0 60px 60px;
+        left: 30%;
+        bottom: 0
+    }
+    .post.small_date .post_content .date_holder::after {
+        border-width: 0 73px 73px;
+        left: 25%;
+        top: 3px
+    }
+    #cboxContent .col-sm-6 {
+        width: 100%
+    }
+    .menu-bar .logo {
+        background: url(../images/logo-bg.png) no-repeat scroll 0 0 / 97% auto rgba(0, 0, 0, 0);
+        float: left;
+        height: 300px;
+        margin: -37px 0 0!important;
+        position: absolute;
+        top: -110px;
+        width: 312px;
+        left: -32px
+    }
+    .sticky-wrapper.is-sticky .menu-bar {
+        height: 81px!important
+    }
+    .sticky-bar .logo {
+        top: -104px;
+        width: 293px;
+        height: 293px
+    }
+    .zee_curve_container .zee_curve_left {
+        left: -447px;
+        top: -107px;
+        transform: rotate(-21.7deg);
+        z-index: 903
+    }
+    .zee_curve_container .zee_curve_right {
+        bottom: -119px
+    }
+    .section_container .hgroup h2 {
+        display: inline-block;
+        font-size: 50px;
+        line-height: 30px
+    }
+    .section_container .hgroup {
+        margin-bottom: 5px
+    }
+    .service_single .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .mob-half-wid .service_right {
+        width: 64%
+    }
+    .mob-half-wid .icon_holder {
+        float: left;
+        width: 13%
+    }
+    .mob-half-wid.service_single .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .motif2 {
+        background: url(../images/media-bg.png) no-repeat scroll 10px 10px / 100% auto rgba(0, 0, 0, 0);
+        height: 511px;
+        margin-left: 0;
+        margin-top: 0;
+        overflow: visible;
+        position: absolute;
+        top: 64%;
+        width: 535px;
+        z-index: 2147483647
+    }
+    footer .sm_links.align_center {
+        position: relative;
+        top: 0;
+        display: inline-block
+    }
+    .motif-circle {
+        width: 400px;
+        height: 430px
+    }
+    .top_border .sm_links.align_center {
+        position: absolute;
+        right: 12px;
+        top: 2px
+    }
+    ul.sm_links li a {
+        border-bottom: 4px solid transparent;
+        border-right: 1px solid #ff8181;
+        color: #fff;
+        float: left;
+        width: 26px
+    }
+    .heading_wrap strong {
+        color: #fff;
+        font-family: "Italianno", cursive;
+        font-size: 31px!important;
+        line-height: 27px
+    }
+    #sec-inner .heading_wrap .highlight {
+        color: #fff;
+        display: block;
+        font-size: 19px;
+        line-height: 28px;
+        position: relative;
+        top: 0
+    }
+    .zee_curve_container .about_bg .zee_curve_right {
+        bottom: -214px!important;
+        right: -484px!important
+    }
+    html .services_section {
+        margin-bottom: 0
+    }
+    .petal-box {
+        display: none
+    }
+    #team .icon_shape {
+        background: none repeat scroll 0 0 transparent;
+        border: 1px solid #926e2d;
+        border-radius: 50%;
+        height: 61px!important;
+        overflow: hidden;
+        width: 61px
+    }
+    #sec-inner .about_right {
+        display: none
+    }
+    .right-hover-text {
+        height: auto;
+        position: absolute;
+        right: 29px;
+        top: 26%;
+        width: 77%
+    }
+    .circlea {
+        left: 20%
+    }
+    #team .col-xs-12.heading_cover>h2 {
+        border-bottom: 1px solid #eee;
+        color: #215f9c;
+        font-size: 24px;
+        left: 45px;
+        position: relative;
+        line-height: 34px;
+        top: 25px
+    }
+    #team .service_single {
+        margin-bottom: -10px;
+        padding-bottom: 0
+    }
+    .service_get {
+        display: inline-block;
+        position: relative;
+        top: 41px;
+        width: 97%;
+        left: 27px
+    }
+    .service_right {
+        right: 0!important;
+        top: 0!important;
+        width: 93%!important
+    }
+    #team .service_single .icon_holder .icon_shape i {
+        color: #fff;
+        font-size: 25px;
+        line-height: 47px;
+        margin-top: 7px;
+        transition: all 0.3s ease 0s
+    }
+    .post {
+        display: inline-block;
+        overflow: hidden
+    }
+    .post .post_content {
+        padding-left: 0;
+        padding-top: 20px
+    }
+    .text-right {
+        text-align: left!important
+    }
+    .team_img {
+        border: 1px solid #eee;
+        height: 260px;
+        overflow: hidden;
+        padding: 10px;
+        width: 335px;
+        margin: 0 auto
+    }
+    .feautured_services.sliding-services {
+        left: inherit;
+        margin-left: 0;
+        padding: 0 0px!important;
+        position: relative
+    }
+    .proj-inner .static_banner {
+        height: 345px!important
+    }
+    .inner_pages_header .proj-inner .main_banner>img {
+        display: block;
+        width: 257%
+    }
+    .inner_pages_header .container>h2 {
+        bottom: 33px;
+        font-size: 13px;
+        font-weight: 300;
+        left: 3px;
+        line-height: normal;
+        margin-left: 0;
+        margin-top: 0;
+        min-width: 430px;
+        position: absolute;
+        text-align: left;
+        text-transform: uppercase;
+        z-index: 99999999
+    }
+    .inner_pages_header .container h2 small {
+        color: #333;
+        display: block;
+        margin-top: 10px;
+        position: absolute;
+        left: 0;
+        text-transform: none
+    }
+    .inner_pages_header .proj-inner .main_banner>img {
+        display: block;
+        left: -277px;
+        position: absolute;
+        top: 73px;
+        width: 179%
+    }
+    .inner_pages_header .about_content_holder h3 {
+        font-size: 15px!important;
+        text-align: left
+    }
+    .inner_pages_header .single_portfolio .service_single .icon_holder .icon_shape {
+        height: auto;
+        min-height: 272px!important
+    }
+    .celebrities .service_single {
+        margin-bottom: 0;
+        overflow: hidden;
+        text-align: center
+    }
+    .video_list>li {
+        display: block;
+        float: left;
+        position: relative;
+        width: 30%;
+        z-index: 9999
+    }
+    .media_list>li {
+        float: left;
+        margin-bottom: 19px;
+        margin-right: 41px;
+        width: 100%
+    }
+    .behind_the_scene_list li.col-md-3 {
+        float: left;
+        margin-left: -20px;
+        width: 23%
+    }
+    .getintouch input {
+        width: 100%
+    }
+    .getintouch input[type="submit"] {
+        width: 100%
+    }
+    .guest_comment li {
+        display: inline-flex
+    }
+    .news-sec .projects .service_single.full {
+        float: left;
+        min-height: 496px;
+        width: 100%!important
+    }
+    #container.masonry {
+        margin-top: 0!important
+    }
+}
+
+@media screen and (min-width:601px) and (max-width:629px) {
+    .mob-half-wid .icon_holder {
+        float: left;
+        width: 9%
+    }
+    .col-sm-5.service_single.news_and_media.videoSection {
+        overflow: inherit;
+        margin-left: 60px
+    }
+    .motif2 {
+        background: url(../images/media-bg.png) no-repeat scroll 10px 10px / 100% auto rgba(0, 0, 0, 0);
+        height: 511px;
+        margin-left: 0;
+        margin-top: 0;
+        overflow: visible;
+        position: absolute;
+        top: 61%;
+        width: 566px;
+        z-index: 2147483647
+    }
+    .news-sec .projects .service_single.full {
+        float: left;
+        min-height: 496px;
+        width: 100%!important
+    }
+    #container.masonry {
+        margin-top: 0!important
+    }
+    .news-sec .mob-half li {
+        float: left;
+        width: 50%
+    }
+}
+
+@media screen and (min-width:601px) and (max-width:767px) {
+	
+		.socialBox .inner  iframe
+	{
+		/*display: none !important;*/
+	}
+	.socialBox:first-child .inner > iframe
+	{
+	    overflow: hidden;
+    /*height: 70px;*/
+		display: block !important;
+	}
+	
+	.socialBox .inner .socialHeader iframe
+	{
+		display: inline-block !important;
+	}
+	
+	.socialBox {
+    padding: 0 5px 30px;
+    width: 300px;
+    float: none;
+    margin: 0 auto;
+}
+	
+    .logo img {
+        bottom: 70px;
+        left: 40px;
+        position: absolute;
+        width: 125px
+    }
+    .logo .floral_bg img {
+        width: 200px;
+        left: -4px!important
+    }
+    .logo .rotator>img {
+        bottom: 36px;
+        left: 0;
+        width: 220px
+    }
+    .sliding-services .item {
+        padding: 0 10px!important
+    }
+    #portfolio_wrapper {
+        padding: 10px 0!important
+    }
+    .pattern_img {
+        opacity: .2
+    }
+    .tp-bullets.simplebullets.round {
+        bottom: 110px!important
+    }
+    .portfolio_listing::before {
+        right: 50%
+    }
+    .portfolio_listing::after {
+        display: none
+    }
+    .about_wedding,
+    .about_wedding .section_container {
+        padding: 0 0 30px 0;
+    }
+	.service_single .service_right h4 {
+    font-size: 16px;
+    line-height: normal;
+}
+	
+    .section_container .hgroup h2,
+    .section_container .hgroup .about_header h2 {
+        font-size: 50px;
+        padding-top: 15px;
+        margin-bottom: 0
+    }
+    .about_wedding .col-md-5 .col-sm-12 {
+        padding: 0
+    }
+    .subheader {
+        font-size: 16px
+    }
+    .item p {
+        padding: 0
+    }
+    .about_header {
+        margin-top: 20px;
+        padding: 0
+    }
+    .success_container {
+        margin: 0 auto;
+        padding: 10px;
+        width: 95%
+    }
+    .success_container a {
+        width: 100%;
+        display: inline-block;
+        margin-right: 0!important;
+        padding: 0;
+        margin-bottom: 10px
+    }
+    .successBox {
+        margin-top: -225px
+    }
+    .imageBox {
+        float: left;
+        width: 52%
+    }
+    .designbox {
+        height: auto;
+        width: 100%
+    }
+    .event_details>li {
+        text-align: left
+    }
+    .calendar {
+        left: -15px
+    }
+    .content_box h2 {
+        font-size: 15px;
+        margin-top: 10px
+    }
+    .content_box .col-md-10 {
+        float: left;
+        width: 95%
+    }
+    .content_box .col-md-2 {
+        float: left;
+        width: 5%;
+        padding: 0
+    }
+    .content_box>p {
+        min-height: auto
+    }
+    .content_box {
+        padding-left: 10px;
+        width: 48%;
+        text-align: left
+    }
+    .zee_d_curve {
+        min-height: 410px
+    }
+    #videoContainer iframe {
+        height: 359px!important;
+        left: -1px;
+        position: relative;
+        top: 0;
+        width: 100%
+    }
+    .caption_vdo {
+        display: none
+    }
+    .decor_class {
+        padding-left: 21px;
+        padding-right: 10px;
+        padding-top: 10px
+    }
+    .margin_left_60 {
+        margin-left: 0
+    }
+    .news_section .service_single.full {
+        display: inline-block;
+        width: 100%
+    }
+    .section_container.decor_style {
+        padding: 0
+    }
+    .service_single .service_right h4 {
+        text-align: center
+    }
+    .menu-bar .main-nav ul li.current a {
+        color: #215f9c!important
+    }
+    #sec-about {
+        margin-top: 0;
+        padding-top: 0;
+        margin-bottom: 0
+    }
+    .about_wedding .col-md-5:first-child {
+        width: 40%
+    }
+    .about_wedding .col-md-5 {
+        float: left;
+        width: 60%
+    }
+    .news_section .service_single.full {
+        display: inline-block;
+        padding: 5px;
+        width: 49.33%;
+        vertical-align: top
+    }
+    .news_section .about_header {
+        margin-bottom: 15px
+    }
+    .news_section .service_single.full .service_right {
+        width: 100%!important
+    }
+    #sec-inner .heading_wrap {
+        padding-left: 0
+    }
+    #sec-inner .heading_wrap .highlight {
+        font-size: 16px;
+        line-height: 17px;
+        top: 0;
+        width: 100%
+    }
+    #sec-inner .static_banner {
+        height: 180px!important;
+        margin-top: 0!important
+    }
+    .inner_pages .about_wedding .col-md-5 {
+        float: none;
+        width: 450px;
+        margin: 0 auto;
+        clear: both
+    }
+    .inner_pages .about_wedding .col-md-7 {
+        float: left;
+        padding-bottom: 10px;
+        width: 100%
+    }
+    html .vector_background {
+        padding-top: 30px!important
+    }
+    .section_container .title2 h2,
+    .title2 h2 {
+        font-size: 45px;
+        line-height: 40px!important
+    }
+    .sevicesSection .circlebg {
+        bottom: -10px;
+        height: 300px;
+        margin-bottom: -5px;
+        margin-top: 0;
+        padding: 30px 40px 0;
+        width: 120%
+    }
+    .service_single.full .service_right {
+        width: 100%!important
+    }
+    .service_right>p {
+        line-height: normal
+    }
+    #team .right-hover-text .service_single.full.service_get {
+        margin-left: -10%
+    }
+    #team .video_holder {
+        margin: 0 auto;
+        width: 365px
+    }
+    .service1 {
+        bottom: 0;
+        left: -71px
+    }
+    .service2 {
+        bottom: 75px;
+        left: -67px
+    }
+    .service3 {
+        left: -40px;
+        top: 65px
+    }
+    .service4 {
+        left: 15px;
+        top: 5px
+    }
+    .service5 {
+        left: 100px;
+        top: -35px
+    }
+    .service6 {
+        right: 100px;
+        top: -33px
+    }
+    .service7 {
+        right: 15px;
+        top: 5px
+    }
+    .service8 {
+        right: -40px;
+        top: 65px
+    }
+    .service9 {
+        bottom: 75px;
+        right: -67px
+    }
+    .service10 {
+        bottom: 0;
+        right: -71px
+    }
+    html .content_bar h2 {
+        font-size: 18px;
+        line-height: 23px
+    }
+    .design3::before,
+    .design3::after {
+        opacity: .2
+    }
+    .design3 {
+        padding-top: 65px
+    }
+    .col-md-6.teambox {
+        float: none;
+        clear: both
+    }
+    .borderbox {
+        width: 78%
+    }
+    .aboutimg {
+        bottom: 0;
+        margin-left: -60px;
+        width: 205px
+    }
+    .imgright .aboutimg {
+        right: -76px;
+        width: 245px
+    }
+    .borderbox-design {
+        padding: 10px 45px 10px 10px
+    }
+    .imgright .borderbox .borderbox-design {
+        padding: 10px 10px 10px 45px
+    }
+    .filterDiv {
+        display: none;
+        float: left
+    }
+    .click-btn {
+        display: block
+    }
+    .filterDiv li {
+        float: left;
+        padding: 0;
+        width: 100%
+    }
+    .filterDiv li a {
+        border-bottom: 1px solid #ccc;
+        min-height: 50px;
+        padding: 5px;
+        text-align: center;
+        width: 100%
+    }
+    .filterDiv li:first-child span {
+        padding-top: 0
+    }
+    .filterDiv li span {
+        display: inline-block;
+        padding-left: 14px;
+        padding-top: 0;
+        width: auto
+    }
+    .filterDiv li.bigWidth {
+        width: 100%
+    }
+    .projects .filterContainer .service_single .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .filterDiv li a::before {
+        display: none
+    }
+    .proj-inner {
+        padding-bottom: 120px
+    }
+    html .inner_pages_header .container>h2 {
+        background-color: #fff;
+        border-bottom: 1px solid #ccc;
+        bottom: -120px;
+        font-size: 13px;
+        height: 120px;
+        left: 0;
+        min-width: auto;
+        padding: 0 10px;
+        width: 100%;
+        margin: 0
+    }
+    html .inner_pages_header .container h2 small {
+        color: #333
+    }
+    .projects .service_single.width1 .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .borderbox3::before {
+        height: 80px
+    }
+    .projects .service_single .icon_holder .icon_shape {
+        height: auto!important;
+        background-size: 130% auto
+    }
+    .about_wedding .wedding_slides {
+        left: -27px;
+        margin-left: 0
+    }
+    .inner_pages_header .about_wedding .motif3 {
+        margin-bottom: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+        overflow: visible;
+        width: 300px
+    }
+    .col-xs-offset-1,
+    .col-xs-offset-2 {
+        margin-left: 0
+    }
+    .inner_pages_header #sec-about {
+        padding-top: 15px
+    }
+    html .inner_pages_header .celebrities .single_portfolio .service_single .icon_holder .icon_shape {
+        height: auto!important;
+        min-height: auto!important;
+        padding: 10px
+    }
+    .triangle-design2 {
+        margin-top: -30px
+    }
+    .flipboxStyle {
+        width: 601px
+    }
+    .flipboxStyle .item {
+        margin: 0 auto;
+        float: left
+    }
+    .centerborder {
+        width: 100%
+    }
+    .career-cont .field_single {
+        display: inline-block;
+        width: 100%
+    }
+    .career-cont {
+        clear: both;
+        float: none;
+        padding: 10px
+    }
+    .lowerBorder_right {
+        width: 200px
+    }
+    .portfolioStyle {
+        width: 100%
+    }
+    .gridStyle2 .item.width1 {
+        float: left;
+        width: 55%
+    }
+    .gridStyle2 .portfolioStyle .width2,
+    .gridStyle2 .portfolioStyle .width3,
+    .gridStyle2 .portfolioStyle .width4,
+    .gridStyle2 .portfolioStyle .width5 {
+        float: left;
+        width: 41%
+    }
+    .boxShadow1 {
+        text-align: center;
+        margin-left: 0
+    }
+    .articleDiv {
+        margin: 20px auto;
+        width: 90%
+    }
+    .articleDiv::after {
+        background-position: right top;
+        background-size: 100% auto;
+        bottom: 0;
+        height: 127px;
+        right: -50px;
+        width: 304px
+    }
+    .articleDiv {
+        z-index: 0
+    }
+    .news_media .projects .service_single.full {
+        float: left;
+        margin: 0 0 0 1%;
+        width: 49%
+    }
+    .gridStyle2 .portfolioInner {
+        padding: 0
+    }
+    .gridStyle2 .row.projects {
+        margin-top: 0
+    }
+    .container.smallcontainer {
+        width: 100%
+    }
+    .testimonials .text-left {
+        height: auto;
+        margin: 4px auto;
+        padding: 12px;
+        width: 100%;
+        padding: 12px 12px 30px
+    }
+    .testimonials .borderbox-design,
+    .testimonials.text-right .borderbox-design {
+        border: 1px solid #d2ae6d;
+        padding: 10px 10px 90px
+    }
+    .testimonials .borderbox2::before,
+    .testimonials.text-right .borderbox2::before,
+    .testimonials .borderbox2::after,
+    .testimonials.text-right .borderbox2::after {
+        background-image: none
+    }
+    .testimonials.text-right .borderbox-design::before {
+        bottom: 0;
+        left: 0;
+        top: inherit
+    }
+    .testimonials .about_content_holder h3 {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: inherit;
+        margin-bottom: 4px;
+        padding-top: 14px
+    }
+    .testimg {
+        bottom: 0;
+        padding-top: 0;
+        position: absolute;
+        right: 18px;
+        z-index: 9
+    }
+    .testimonials .rslides {
+        height: 110px;
+        width: 110px
+    }
+    .testimonials .rslides>li {
+        width: 160px
+    }
+    .testimonials .borderbox-design::before {
+        background-image: url(../images/bottm_left_pettles.png);
+        bottom: 0;
+        height: 126px;
+        left: 0;
+        top: inherit;
+        width: 121px
+    }
+    .contact_us .col-sm-7 {
+        height: 180px;
+        overflow: hidden;
+        width: 100%
+    }
+    .slantdesign::before {
+        display: none
+    }
+    .slantdesign::after {
+        border-width: 0 100px 100px;
+        left: 23%;
+        top: -100px
+    }
+    .contact_info {
+        display: inline-block;
+        left: 0;
+        margin: 0 auto!important;
+        width: 100%
+    }
+    .slantdesign {
+        min-height: auto;
+        padding: 35px 20px;
+        width: 100%
+    }
+    .brownbg {
+        min-height: 300px
+    }
+    .contact_form {
+        padding: 10px 0;
+        width: 100%
+    }
+    .sevicesSection .serviceRight .about_right {
+        display: none
+    }
+    .news_media .service_single .icon_holder .icon_shape {
+        height: 140px!important
+    }
+    .post.small_date .post_content .date_holder::before {
+        border-width: 0 60px 60px;
+        left: 30%;
+        bottom: 0
+    }
+    .post.small_date .post_content .date_holder::after {
+        border-width: 0 73px 73px;
+        left: 25%;
+        top: 3px
+    }
+    .projects .service_single.full.col-sm-6 {
+        padding: 0;
+        margin-bottom: 0
+    }
+    .projects .service_single.full {
+        float: left;
+        margin-bottom: 10px;
+        margin-right: 0;
+        width: 50%
+    }
+    .filterContainer .service_single.full {
+        width: 49%
+    }
+    #cboxContent .col-sm-6 {
+        width: 100%
+    }
+    .text_banner_holder1 {
+        border-width: 539px 470px 0 0!important;
+        left: 39%!important;
+        position: fixed!important;
+        top: 0!important
+    }
+    .col-sm-5.service_single.news_and_media.videoSection {
+        overflow: inherit;
+        margin-left: 60px
+    }
+    html .caption.lft.small_white strong {
+        font-family: "Italianno", cursive;
+        font-size: 47px;
+        font-weight: 700;
+        line-height: 37px;
+        margin-top: 5px;
+        position: relative;
+        top: 8px
+    }
+    html .caption.lft.small_white.start>span {
+        display: block;
+        font-size: 29px;
+        line-height: 26px
+    }
+    html .caption.lft.small_white.start {
+        font-size: 25px!important;
+        right: 6%!important;
+        top: 310px!important
+    }
+    .menu-bar .logo {
+        background: url(../images/logo-bg.png) no-repeat scroll 0 0 / 97% auto rgba(0, 0, 0, 0);
+        float: left;
+        height: 300px;
+        margin: -37px 0 0!important;
+        position: absolute;
+        top: -110px;
+        width: 312px;
+        left: -32px
+    }
+    .sticky-wrapper.is-sticky .menu-bar {
+        height: 81px!important
+    }
+    .sticky-bar .logo {
+        top: -104px;
+        width: 293px;
+        height: 293px
+    }
+    .zee_curve_container .zee_curve_left {
+        left: -447px;
+        top: -107px;
+        transform: rotate(-21.7deg);
+        z-index: 903
+    }
+    .zee_curve_container .zee_curve_right {
+        bottom: -119px
+    }
+    .section_container .hgroup {
+        margin-bottom: 5px;
+        padding: 0 15px
+    }
+    .mob-half-wid.service_single .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .motif2 {
+        background: url(../images/media-bg.png) no-repeat scroll 10px 10px / 100% auto rgba(0, 0, 0, 0);
+        height: 511px;
+        margin-left: 0;
+        margin-top: 0;
+        overflow: visible;
+        position: absolute;
+        top: 60%;
+        width: 558px;
+        z-index: 2147483647
+    }
+    footer .sm_links.align_center {
+        position: relative;
+        top: 0;
+        display: inline-block
+    }
+    .feautured_services .owl-carousel .owl-item {
+        padding-left: 23px
+    }
+    .motif-circle {
+        width: 400px;
+        height: 430px
+    }
+    .mob-half-wid {
+        float: left;
+        width: 46%!important
+    }
+    .col-sm-5.service_single.full {
+        width: 47%;
+        float: left
+    }
+    .top_border .sm_links.align_center {
+        position: absolute;
+        right: 12px;
+        top: 2px
+    }
+    ul.sm_links li a {
+        border-bottom: 4px solid transparent;
+        border-right: 1px solid #ff8181;
+        color: #fff;
+        float: left;
+        width: 26px
+    }
+    .heading_wrap strong {
+        color: #fff;
+        font-family: "Italianno", cursive;
+        font-size: 31px!important;
+        line-height: 27px
+    }
+    .zee_curve_container .about_bg .zee_curve_right {
+        bottom: -214px!important;
+        right: -484px!important
+    }
+    .petal-box {
+        display: none
+    }
+    #team .icon_shape {
+        background: none repeat scroll 0 0 transparent;
+        border: 1px solid #926e2d;
+        border-radius: 50%;
+        height: 61px!important;
+        overflow: hidden;
+        width: 61px
+    }
+    #sec-inner .about_right {
+        display: none
+    }
+    .right-hover-text {
+        height: auto;
+        position: absolute;
+        right: 29px;
+        top: 26%;
+        width: 77%
+    }
+    .circlea {
+        left: 20%
+    }
+    #team .col-xs-12.heading_cover>h2 {
+        border-bottom: 1px solid #eee;
+        color: #215f9c;
+        font-size: 24px;
+        left: 45px;
+        position: relative;
+        line-height: 34px;
+        top: 25px
+    }
+    #team .service_single {
+        margin-bottom: -10px;
+        padding-bottom: 0
+    }
+    .service_get {
+        display: inline-block;
+        position: relative;
+        top: 41px;
+        width: 97%;
+        left: 27px
+    }
+    .service_right {
+        right: 0!important;
+        top: 0!important;
+        width: 93%!important
+    }
+    #team .service_single .icon_holder .icon_shape i {
+        color: #fff;
+        font-size: 25px;
+        line-height: 47px;
+        margin-top: 7px;
+        transition: all 0.3s ease 0s
+    }
+    .post {
+        display: inline-block;
+        overflow: hidden
+    }
+    .post .post_content {
+        padding-left: 0;
+        padding-top: 20px
+    }
+    .team_img {
+        border: 1px solid #eee;
+        height: 260px;
+        overflow: hidden;
+        padding: 10px;
+        width: 335px;
+        margin: 0 auto
+    }
+    .text-right {
+        text-align: left!important
+    }
+    .box-float {
+        clear: left
+    }
+    .proj-inner .static_banner {
+        height: 345px!important
+    }
+    .inner_pages_header .proj-inner .main_banner>img {
+        display: block;
+        width: 257%
+    }
+    .inner_pages_header .container>h2 {
+        bottom: 52px;
+        font-size: 18px;
+        font-weight: 300;
+        left: 3px;
+        line-height: normal;
+        margin-left: 30px;
+        margin-top: 0;
+        min-width: 430px;
+        position: absolute;
+        text-align: left;
+        text-transform: uppercase;
+        z-index: 99999999
+    }
+    .inner_pages_header .container h2 small {
+        color: #fff;
+        display: block;
+        margin-top: 10px;
+        position: absolute;
+        left: 0;
+        text-transform: none
+    }
+    .inner_pages_header .proj-inner .main_banner>img {
+        display: block;
+        left: -277px;
+        position: absolute;
+        top: 73px;
+        width: 161%
+    }
+    .inner_pages_header .about_content_holder h3 {
+        font-size: 15px!important;
+        text-align: left
+    }
+    .inner_pages_header .single_portfolio .service_single .icon_holder .icon_shape {
+        height: auto;
+        min-height: 272px!important
+    }
+    .celebrities .service_single {
+        margin-bottom: 0;
+        overflow: hidden;
+        text-align: center
+    }
+    .about_wedding .motif2 {
+        left: -29px;
+        margin-left: 0;
+        top: 42%
+    }
+    .video_list>li {
+        display: block;
+        float: left;
+        position: relative;
+        width: 30%;
+        z-index: 9999
+    }
+    .media_list>li {
+        float: left;
+        margin-bottom: 19px;
+        margin-right: 41px;
+        width: 100%
+    }
+    .behind_the_scene_list li.col-md-3 {
+        float: left;
+        margin-left: -20px;
+        width: 22%
+    }
+    .getintouch input {
+        width: 31%
+    }
+    .getintouch input[type="submit"] {
+        width: 100%
+    }
+    .guest_comment li {
+        display: inline-flex
+    }
+    .testimonials.text-right .col-sm-9 {
+        display: block;
+        float: left;
+        width: 53%
+    }
+    .testimonials.text-right .text-left {
+        text-align: right
+    }
+    .testimonials.text-right .col-sm-3 {
+        float: right;
+        width: 47%
+    }
+    .testimonials .col-sm-3 {
+        float: left;
+        width: 50%
+    }
+    .news-sec .projects .service_single.full {
+        width: 100%!important
+    }
+    #container.masonry {
+        margin-top: 0!important
+    }
+    .news-sec .mob-half li {
+        float: left;
+        width: 50%
+    }
+    .news-sec .col-sm-8 {
+        float: left;
+        width: 67%
+    }
+    .news-sec .col-sm-4.featured_box.mob-half {
+        float: right;
+        width: 33%
+    }
+    .news-sec .mob-half li {
+        float: left;
+        width: 97%
+    }
+}
+
+@media screen and (min-width:710px) and (max-width:767px) {
+    .mob-half-wid {
+        float: right;
+        width: 49%!important
+    }
+    .Our_projects .projects .service_single.full {
+        min-height: 450px
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:894px) {
+    .icon_holder .about_right {
+        display: none
+    }
+    .col-sm-5.service_single.news_and_media.videoSection {
+        overflow: inherit;
+        margin-left: 60px
+    }
+    html .static_banner {
+        height: 430px!important;
+        overflow: hidden
+    }
+    ul.sm_links li a {
+        border-bottom: 4px solid transparent;
+        border-right: 1px solid #ff8181;
+        color: #fff;
+        float: left;
+        width: 20px
+    }
+    .top_border ul.sm_links li {
+        border-top: 1px solid #df1111;
+        margin: -2px 0 0
+    }
+    .top_border .sm_links.align_center {
+        position: absolute;
+        right: 0;
+        top: 2px
+    }
+    .sm_icon.details {
+        border-right: 1px solid #ff8181;
+        padding: 0 4px;
+        width: auto!important
+    }
+    .menu-bar .main-nav ul {
+        display: none;
+        float: none;
+        margin: 0;
+        overflow: hidden
+    }
+    .Our_projects .projects .service_single.full {
+        float: left;
+        margin-bottom: 0;
+        margin-right: 0;
+        min-height: 421px;
+        width: 33%
+    }
+    .featured_section .col-sm-8 {
+        margin-bottom: 9px;
+        padding: 0
+    }
+    #cboxContent .col-sm-6 {
+        width: 100%
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:1100px) {
+	.socialBox {
+    padding: 0 15px 30px;
+    width: 33%;
+    float: left;
+    margin: 0 auto;
+}
+	
+    .col-sm-5.service_single.news_and_media.videoSection {
+        overflow: inherit;
+        margin-left: 100px
+    }
+}
+
+@media screen and (min-width:820px) and (max-width:1100px) {
+    .our_services .single_portfolio {
+        float: left;
+        height: 234px;
+        margin-right: 0;
+        margin-top: 25px;
+        width: 20%
+    }
+}
+
+@media screen and (min-width:894px) and (max-width:900px) {
+    .menu-bar .main-nav ul {
+        display: none;
+        float: none;
+        margin: 0;
+        overflow: hidden
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .logo img {
+        bottom: 70px;
+        left: 40px;
+        position: absolute;
+        width: 125px
+    }
+    .logo .floral_bg img {
+        width: 200px;
+        left: -4px!important
+    }
+    .logo .rotator>img {
+        bottom: 36px;
+        left: 0;
+        width: 220px
+    }
+    .sliding-services .item {
+        padding: 0 10px!important
+    }
+    #portfolio_wrapper {
+        padding: 10px 0!important
+    }
+    .pattern_img {
+        opacity: .2
+    }
+    .tp-bullets.simplebullets.round {
+        bottom: 110px!important
+    }
+    .portfolio_listing::before {
+        right: 50%
+    }
+    .portfolio_listing::after {
+        display: none
+    }
+    .about_wedding,
+    .about_wedding .section_container {
+        padding: 0 0 30px 0;
+    }
+	.service_single .service_right h4 {
+    font-size: 16px;
+    line-height: normal;
+}
+	
+    .section_container .hgroup h2,
+    .section_container .hgroup .about_header h2 {
+        font-size: 50px;
+        padding-top: 15px;
+        margin-bottom: 0
+    }
+    .about_wedding .col-md-5 .col-sm-12 {
+        padding: 0
+    }
+    .subheader {
+        font-size: 16px
+    }
+    .item p {
+        padding: 0
+    }
+    .about_header {
+        margin-top: 20px;
+        padding: 0
+    }
+    .success_container {
+        margin: 0 10px;
+        padding: 10px;
+        width: 98%;
+        display: inline-block
+    }
+    .success_container a {
+        width: 100%;
+        display: inline-block;
+        margin-right: 0!important;
+        padding: 0;
+        margin-bottom: 10px
+    }
+    .successBox {
+        margin-top: -185px
+    }
+    .imageBox {
+        float: left;
+        width: 52%
+    }
+    .designbox {
+        height: auto;
+        width: 100%
+    }
+    .event_details>li {
+        text-align: left
+    }
+    .calendar {
+        left: -15px
+    }
+    .content_box h2 {
+        font-size: 15px;
+        margin-top: 10px
+    }
+    .content_box .col-md-10 {
+        float: left;
+        width: 95%
+    }
+    .content_box .col-md-2 {
+        float: left;
+        width: 5%;
+        padding: 0
+    }
+    .content_box>p {
+        min-height: auto
+    }
+    .content_box {
+        padding-left: 10px;
+        width: 48%;
+        text-align: left
+    }
+    .zee_d_curve {
+        min-height: 410px
+    }
+    #videoContainer iframe {
+        height: 359px!important;
+        left: -1px;
+        position: relative;
+        top: 0;
+        width: 100%
+    }
+    .caption_vdo {
+        display: none
+    }
+    .decor_class {
+        padding-left: 21px;
+        padding-right: 10px;
+        padding-top: 10px
+    }
+    .margin_left_60 {
+        margin-left: 0
+    }
+    .news_section .service_single.full {
+        display: inline-block;
+        width: 100%
+    }
+    .section_container.decor_style {
+        padding: 0
+    }
+    .service_single .service_right h4 {
+        text-align: center
+    }
+    .menu-bar .main-nav ul li.current a {
+        color: #215f9c!important
+    }
+    #sec-about {
+        margin-top: 0;
+        padding-top: 0;
+        margin-bottom: 0
+    }
+    .about_wedding .col-md-5:first-child {
+        width: 40%
+    }
+    .about_wedding .col-md-5 {
+        float: left;
+        width: 60%
+    }
+    .news_section .service_single.full {
+        display: inline-block;
+        padding: 5px;
+        width: 32.33%;
+        vertical-align: top
+    }
+    .news_section .about_header {
+        margin-bottom: 15px
+    }
+    .news_section .service_single.full .service_right {
+        width: 100%;
+        text-align: center
+    }
+    .menu-bar {
+        height: 75px;
+        position: fixed;
+        top: 0;
+        width: 100%
+    }
+    .services_section {
+        margin-bottom: 0
+    }
+    .top_border {
+        position: fixed;
+        top: 0
+    }
+    .static_banner {
+        margin-top: 75px;
+        position: relative
+    }
+    html .caption.lft.small_white.start {
+        font-size: 25px;
+        right: 4%;
+        top: 300px
+    }
+    .fullwidthbanner.tp-simpleresponsive {
+        margin-top: 0
+    }
+    .feautured_services {
+        left: 60%;
+        margin-left: -56.5%;
+        width: 90%
+    }
+    .section_container .hgroup {
+        margin-bottom: 5px;
+        padding: 0 15px
+    }
+    #sec-inner .heading_wrap {
+        padding-left: 0
+    }
+    #sec-inner .heading_wrap .highlight {
+        font-size: 16px;
+        line-height: 17px;
+        top: 0;
+        width: 100%
+    }
+    #sec-inner .static_banner {
+        height: 180px!important;
+        margin-top: 0!important
+    }
+    .inner_pages .about_wedding .col-md-5 {
+        float: left;
+        margin: 0 auto;
+        width: 40%
+    }
+    .inner_pages .about_wedding .col-md-7 {
+        float: left;
+        padding-bottom: 10px;
+        width: 60%
+    }
+    html .vector_background {
+        padding-top: 30px!important
+    }
+    .section_container .title2 h2,
+    .title2 h2 {
+        font-size: 45px;
+        line-height: 40px!important
+    }
+    .service_single.full .service_right {
+        width: 100%!important
+    }
+    .service_right>p {
+        line-height: normal
+    }
+    html .content_bar h2 {
+        font-size: 18px;
+        line-height: 23px
+    }
+    .design3::before,
+    .design3::after {
+        opacity: .2
+    }
+    .design3 {
+        padding-top: 65px
+    }
+    .col-md-6.teambox {
+        float: none;
+        clear: both
+    }
+    .filterDiv {
+        display: none;
+        float: left
+    }
+    .click-btn {
+        display: block
+    }
+    .filterDiv li {
+        float: left;
+        padding: 0;
+        width: 100%
+    }
+    .filterDiv li a {
+        border-bottom: 1px solid #ccc;
+        min-height: 50px;
+        padding: 5px;
+        text-align: center;
+        width: 100%
+    }
+    .filterDiv li:first-child span {
+        padding-top: 0
+    }
+    .filterDiv li span {
+        display: inline-block;
+        padding-left: 14px;
+        padding-top: 0;
+        width: auto
+    }
+    .filterDiv li.bigWidth {
+        width: 100%
+    }
+    .projects .filterContainer .service_single .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .filterDiv li a::before {
+        display: none
+    }
+    html .inner_pages_header .container>h2 {
+        bottom: 54px
+    }
+    .inner_pages_header h2 span {
+        font-size: 18px
+    }
+    html .inner_pages_header .container h2 small {
+        color: #333
+    }
+    .projects .service_single.width1 .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .borderbox3::before {
+        height: 80px
+    }
+    .projects .service_single .icon_holder .icon_shape {
+        height: auto!important;
+        background-size: 130% auto
+    }
+    .inner_pages_header .about_wedding .motif3 {
+        margin: 100px auto 40px;
+        overflow: visible;
+        width: 300px;
+        float: none
+    }
+    .col-xs-offset-1,
+    .col-xs-offset-2 {
+        margin-left: 0
+    }
+    .inner_pages_header #sec-about {
+        padding-top: 15px
+    }
+    html .inner_pages_header .celebrities .single_portfolio .service_single .icon_holder .icon_shape {
+        height: auto!important;
+        min-height: auto!important;
+        padding: 10px
+    }
+    .triangle-design2 {
+        margin-top: -30px
+    }
+    .flipboxStyle {
+        width: 601px
+    }
+    .flipboxStyle .item {
+        margin: 0 auto;
+        float: left
+    }
+    .centerborder {
+        width: 100%
+    }
+    .career-cont .field_single {
+        display: inline-block;
+        width: 100%
+    }
+    .career-cont {
+        float: left;
+        width: 50%;
+        padding: 10px
+    }
+    .triangle-design {
+        float: left;
+        padding: 30px 10px;
+        width: 50%
+    }
+    .lowerBorder_right {
+        width: 200px
+    }
+    .portfolioStyle {
+        width: 100%
+    }
+    .gridStyle2 .item.width1 {
+        float: left;
+        width: 55%
+    }
+    .gridStyle2 .portfolioStyle .width2,
+    .gridStyle2 .portfolioStyle .width3,
+    .gridStyle2 .portfolioStyle .width4,
+    .gridStyle2 .portfolioStyle .width5 {
+        float: left;
+        width: 41%
+    }
+    .boxShadow1 {
+        text-align: center;
+        margin-left: 0
+    }
+    .articleDiv {
+        margin: 20px auto;
+        width: 60%;
+        height: auto
+    }
+    .articleDiv::after {
+        background-position: right top;
+        background-size: 100% auto;
+        bottom: 0;
+        height: 127px;
+        right: -50px;
+        width: 304px
+    }
+    .articleDiv {
+        z-index: 0
+    }
+    .news_media .projects .service_single.full {
+        float: left;
+        margin: 0 0 0 1%;
+        width: 32%
+    }
+    .gridStyle2 .portfolioInner {
+        padding: 0
+    }
+    .gridStyle2 .row.projects {
+        margin-top: 0
+    }
+    .container.smallcontainer {
+        width: 100%
+    }
+    .testimonials .text-left {
+        height: auto;
+        margin: 4px auto;
+        padding: 12px;
+        width: 100%;
+        padding: 12px 12px 30px
+    }
+    .testimonials .borderbox-design,
+    .testimonials.text-right .borderbox-design {
+        border: 1px solid #d2ae6d;
+        padding: 10px 10px 90px
+    }
+    .testimonials .borderbox2::before,
+    .testimonials.text-right .borderbox2::before,
+    .testimonials .borderbox2::after,
+    .testimonials.text-right .borderbox2::after {
+        background-image: none
+    }
+    .testimonials.text-right .borderbox-design::before {
+        bottom: 0;
+        left: 0;
+        top: inherit
+    }
+    .testimonials .about_content_holder h3 {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: inherit;
+        margin-bottom: 4px;
+        padding-top: 14px
+    }
+    .testimg {
+        bottom: 0;
+        padding-top: 0;
+        position: absolute;
+        right: 18px;
+        z-index: 9
+    }
+    .testimonials .rslides {
+        height: 110px;
+        width: 110px
+    }
+    .testimonials .rslides>li {
+        width: 160px
+    }
+    .testimonials .borderbox-design::before {
+        background-image: url(../images/bottm_left_pettles.png);
+        bottom: 0;
+        height: 126px;
+        left: 0;
+        top: inherit;
+        width: 121px
+    }
+    .sevicesSection .serviceRight .about_right {
+        display: none
+    }
+    .news_media .service_single .icon_holder .icon_shape {
+        height: 140px!important
+    }
+    .post.small_date .post_content .date_holder::before {
+        border-width: 0 60px 60px;
+        left: 30%;
+        bottom: 0
+    }
+    .post.small_date .post_content .date_holder::after {
+        border-width: 0 73px 73px;
+        left: 25%;
+        top: 3px
+    }
+    .about_wedding .wedding_slides {
+        left: -27px;
+        margin-left: 0
+    }
+    .projects .service_single.full.col-sm-6 {
+        padding: 0
+    }
+    .projects .service_single.full {
+        float: left;
+        margin-bottom: 1%;
+        margin-right: 1%;
+        min-height: inherit;
+        width: 32%
+    }
+    .sevicesSection .about_right {
+        display: none
+    }
+    .inner_pages_header .about_wedding .col-md-8 {
+        display: inline-block;
+        width: 100%
+    }
+    .getintouch input,
+    .getintouch input[type="submit"] {
+        display: inline-block;
+        margin-right: 1%;
+        width: 23%
+    }
+    #cboxContent .col-sm-6 {
+        width: 100%
+    }
+    .contact_form {
+        padding: 40px 10px
+    }
+    .contactForm .col-sm-6 {
+        width: 100%
+    }
+    .trianglebox {
+        left: inherit;
+        right: -32%
+    }
+    .container {
+        width: 100%
+    }
+    .static_banner {
+        height: 500px;
+        overflow: hidden
+    }
+    .text_banner_holder1 {
+        border-width: 539px 650px 0 0!important;
+        left: 53%!important;
+        position: absolute!important;
+        top: 0!important;
+        width: 900px!important;
+        margin-left: 90px!important
+    }
+    html .caption.lft.small_white strong {
+        font-family: "Italianno", cursive;
+        font-size: 47px;
+        font-weight: 700;
+        line-height: 37px;
+        margin-top: 5px;
+        position: relative;
+        top: 8px
+    }
+    html .caption.lft.small_white.start>span {
+        display: block;
+        font-size: 29px;
+        line-height: 26px
+    }
+    .menu-bar .logo {
+        background: url(../images/logo-bg.png) no-repeat scroll 0 0 / 97% auto rgba(0, 0, 0, 0);
+        float: left;
+        height: 300px;
+        margin: -37px 0 0!important;
+        position: absolute;
+        top: -110px;
+        width: 312px;
+        left: -32px
+    }
+    .sticky-wrapper.is-sticky .menu-bar {
+        height: 81px!important
+    }
+    .zee_curve_container .zee_curve_left {
+        left: -447px;
+        top: -107px;
+        transform: rotate(-21.7deg);
+        z-index: 903
+    }
+    .zee_curve_container .zee_curve_right {
+        bottom: -119px
+    }
+    .is-sticky li a {
+        padding: 9px 0
+    }
+    .section_container .hgroup h2 {
+        font-size: 52px!important;
+        line-height: 30px;
+        margin: 5px 0!important
+    }
+    .mob-half-wid {
+        float: right;
+        width: 49%!important
+    }
+    .motif2 {
+        background: url(../images/media-bg.png) no-repeat 10px 10px / 100% auto rgba(0, 0, 0, 0);
+        height: 500px;
+        margin-left: -22px;
+        margin-top: 588px;
+        overflow: visible;
+        position: absolute;
+        width: 534px;
+        z-index: 2147483647
+    }
+    .motif-circle {
+        width: 342px;
+        height: auto
+    }
+    .heading_wrap strong {
+        color: #fff;
+        font-family: "Italianno", cursive;
+        font-size: 45px!important;
+        line-height: 27px
+    }
+    .zee_curve_container .about_bg .zee_curve_right {
+        bottom: -214px!important;
+        right: -484px!important
+    }
+    #sec-about {
+        margin-top: 0;
+        padding-top: 0
+    }
+    #team .icon_shape {
+        background: none repeat scroll 0 0 transparent;
+        border: 1px solid #926e2d;
+        border-radius: 50%;
+        height: 70px!important;
+        overflow: hidden;
+        width: 70px!important
+    }
+    .service_single .icon_holder .icon_shape i {
+        font-size: 32px!important;
+        line-height: 72px
+    }
+    #team .service_single .icon_holder .icon_shape i {
+        color: #fff;
+        font-size: 40px;
+        line-height: 45px;
+        margin-top: 7px;
+        transition: all 0.3s ease 0s
+    }
+    .circlea {
+        left: 46%
+    }
+    #sec-inner .about_right {
+        display: none!important
+    }
+    #team .col-xs-12.heading_cover>h2 {
+        border-bottom: 1px solid #eee;
+        color: #215f9c;
+        font-size: 31px;
+        left: 45px;
+        position: absolute;
+        line-height: 33px
+    }
+    .team-sec .col-sm-4 {
+        width: 94%
+    }
+    .team_img {
+        width: 400px!important;
+        position: relative;
+        left: 24%
+    }
+    .post .post_content {
+        padding-left: 0!important;
+        padding-top: 20px
+    }
+    .post_content.text-right {
+        margin-top: 0;
+        text-align: left
+    }
+    .project_page .projects .service_single {
+        min-height: 458px!important
+    }
+    .menu-bar .main-nav ul li a {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 12px;
+        margin: 1px;
+        padding: 30px 7px
+    }
+    .proj-inner .static_banner {
+        height: 345px!important
+    }
+    .inner_pages_header .proj-inner .main_banner>img {
+        display: block;
+        width: 257%
+    }
+    .inner_pages_header .container h2 small {
+        color: #fff;
+        display: block;
+        margin-top: 10px;
+        position: absolute;
+        left: 0;
+        text-transform: none
+    }
+    .inner_pages_header .proj-inner .main_banner>img {
+        display: block;
+        left: -277px;
+        position: relative;
+        top: 0;
+        width: 138%
+    }
+    .inner_pages_header .about_content_holder h3 {
+        font-size: 20px!important;
+        text-align: right
+    }
+    .inner_pages_header .single_portfolio .service_single .icon_holder .icon_shape {
+        height: auto;
+        min-height: 272px!important
+    }
+    .celebrities .service_single {
+        margin-bottom: 0;
+        overflow: hidden;
+        text-align: center
+    }
+    .about_wedding .motif2 {
+        margin-left: 0;
+        margin-top: 0;
+        right: -129px;
+        top: -61px
+    }
+    .video_list>li {
+        display: block;
+        float: left;
+        position: relative;
+        width: 21%;
+        z-index: 9999
+    }
+    .media_list>li {
+        float: left;
+        margin-bottom: 19px;
+        margin-right: 41px;
+        width: 43%
+    }
+    .behind_the_scene_list li.col-md-3 {
+        float: left;
+        margin-left: -20px;
+        width: 22%
+    }
+    .projects.decoration .service_single.full {
+        min-height: auto!important
+    }
+    .guest_comment li {
+        display: inline-flex
+    }
+    .bridal_groom {
+        width: 100%
+    }
+    .row.projects.decoration {
+        text-align: center
+    }
+    ul.sm_links li a {
+        border-bottom: 4px solid transparent;
+        border-right: 1px solid #ff8181;
+        color: #fff;
+        float: left;
+        width: 22px
+    }
+    .news-sec .col-sm-2 {
+        width: 23%
+    }
+    .news-sec .projects .col-sm-4.service_single {
+        width: 40%!important
+    }
+}
+
+@media screen and (min-width:992px) and (max-width:998px) {
+    .news-sec .col-sm-4.service_single.full.post.small_date.group1.box.cboxElement.masonry-brick {
+        width: 55%
+    }
+}
+
+@media screen and (min-width:992px) and (max-width:1199px) {
+    .logo img {
+        bottom: 51px;
+        left: 40px;
+        position: absolute;
+        width: 165px
+    }
+    .logo .floral_bg img {
+        left: -45px!important;
+        position: absolute;
+        top: 222px;
+        width: 335px!important
+    }
+    .logo .rotator>img {
+        bottom: 0;
+        left: 0;
+        width: 268px
+    }
+    .sliding-services .item {
+        padding: 0 10px!important
+    }
+    #portfolio_wrapper {
+        padding: 10px 0!important
+    }
+    .pattern_img {
+        opacity: .2
+    }
+    .tp-bullets.simplebullets.round {
+        bottom: 110px!important
+    }
+    .portfolio_listing::before {
+        right: 50%
+    }
+    .portfolio_listing::after {
+        display: none
+    }
+    .about_wedding,
+    .about_wedding .section_container {
+        padding: 0
+    }
+    .about_wedding .col-md-5 .col-sm-12 {
+        padding: 0
+    }
+    .subheader {
+        font-size: 16px
+    }
+    .item p {
+        padding: 0
+    }
+    .about_header {
+        margin-top: 20px;
+        padding: 0
+    }
+    .success_container {
+        display: block;
+        margin: 0 10%;
+        padding: 10px;
+        width: 80%
+    }
+    .success_container a {
+        width: 100%;
+        display: inline-block;
+        margin-right: 0!important;
+        padding: 0;
+        margin-bottom: 10px
+    }
+    .successBox {
+        margin-top: -185px
+    }
+    .imageBox {
+        float: left;
+        width: 52%
+    }
+    .designbox {
+        height: auto;
+        width: 100%
+    }
+    .event_details>li {
+        text-align: left
+    }
+    .calendar {
+        left: -15px
+    }
+    .content_box h2 {
+        font-size: 15px;
+        margin-top: 10px
+    }
+    .content_box .col-md-10 {
+        float: left;
+        width: 95%
+    }
+    .content_box .col-md-2 {
+        float: left;
+        width: 5%;
+        padding: 0
+    }
+    .content_box>p {
+        min-height: auto
+    }
+    .content_box {
+        padding-left: 10px;
+        width: 48%;
+        text-align: left
+    }
+    .zee_d_curve {
+        min-height: 410px
+    }
+    #videoContainer iframe {
+        height: 359px!important;
+        left: -1px;
+        position: relative;
+        top: 0;
+        width: 100%
+    }
+    .decor_class {
+        padding-left: 21px;
+        padding-right: 10px;
+        padding-top: 10px
+    }
+    .col-md-11.margin_left_60 {
+        margin-left: 0;
+        width: 100%
+    }
+    .news_section .service_single.full {
+        display: inline-block;
+        width: 100%
+    }
+    .section_container.decor_style {
+        padding: 0
+    }
+    .menu-bar .main-nav ul li.current a {
+        color: #215f9c!important
+    }
+    #sec-about {
+        margin-top: 0;
+        padding-top: 0;
+        margin-bottom: 0
+    }
+    .about_wedding .col-md-5:first-child {
+        margin-bottom: 20px;
+        margin-left: 0;
+        width: 45%
+    }
+    .about_wedding .col-md-5 {
+        float: left;
+        padding: 25px;
+        width: 50%
+    }
+    .news_section .service_single.full {
+        display: inline-block;
+        padding: 5px;
+        width: 32.33%;
+        vertical-align: top
+    }
+    .news_section .about_header {
+        margin-bottom: 15px
+    }
+    .news_section .service_single.full .service_right {
+        width: 100%;
+        text-align: center
+    }
+    .services_section {
+        margin-bottom: 0
+    }
+    .static_banner {
+        margin-top: 75px;
+        position: relative
+    }
+    .fullwidthbanner.tp-simpleresponsive {
+        margin-top: 0
+    }
+    .feautured_services {
+        left: 60%;
+        margin-left: -56.5%;
+        width: 90%
+    }
+    .section_container .hgroup {
+        margin-bottom: 5px;
+        padding: 0 15px
+    }
+    .inner_pages_header #sec-about .col-md-10 {
+        width: 100%
+    }
+    #sec-inner .heading_wrap {
+        padding-left: 0
+    }
+    #sec-inner .heading_wrap .highlight {
+        font-size: 16px;
+        line-height: 17px;
+        top: 0;
+        width: 100%
+    }
+    #sec-inner .static_banner {
+        height: 180px!important;
+        margin-top: 0!important
+    }
+    .inner_pages .about_wedding .col-md-5 {
+        float: left;
+        margin: 0 auto;
+        width: 40%
+    }
+    .inner_pages .about_wedding .col-md-7 {
+        float: left;
+        padding-bottom: 10px;
+        width: 60%
+    }
+    html .vector_background {
+        padding-top: 30px!important
+    }
+    .section_container .title2 h2,
+    .title2 h2 {
+        font-size: 45px;
+        line-height: 40px!important
+    }
+    .service_single.full .service_right {
+        width: 100%!important
+    }
+    .service_right>p {
+        line-height: normal
+    }
+    html .content_bar h2 {
+        font-size: 18px;
+        line-height: 23px
+    }
+    .design3::before,
+    .design3::after {
+        opacity: .2
+    }
+    .design3 {
+        padding-top: 65px
+    }
+    .filterDiv {
+        display: none;
+        float: left
+    }
+    .click-btn {
+        display: block
+    }
+    .filterDiv li {
+        float: left;
+        padding: 0;
+        width: 100%
+    }
+    .filterDiv li a {
+        border-bottom: 1px solid #ccc;
+        min-height: 50px;
+        padding: 5px;
+        text-align: center;
+        width: 100%
+    }
+    .filterDiv li:first-child span {
+        padding-top: 0
+    }
+    .filterDiv li span {
+        display: inline-block;
+        padding-left: 14px;
+        padding-top: 0;
+        width: auto
+    }
+    .filterDiv li.bigWidth {
+        width: 100%
+    }
+    .projects .filterContainer .service_single .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .filterDiv li a::before {
+        display: none
+    }
+    html .inner_pages_header .container>h2 {
+        bottom: 85px
+    }
+    .inner_pages_header h2 span {
+        font-size: 18px
+    }
+    html .inner_pages_header .container h2 small {
+        color: #333
+    }
+    .projects .service_single.width1 .icon_holder .icon_shape {
+        height: auto!important
+    }
+    .inner_pages_header .about_wedding .motif3 {
+        width: 300px
+    }
+    .col-xs-offset-1,
+    .col-xs-offset-2 {
+        margin-left: 0
+    }
+    .inner_pages_header #sec-about {
+        padding-top: 15px
+    }
+    html .inner_pages_header .celebrities .single_portfolio .service_single .icon_holder .icon_shape {
+        height: auto!important;
+        min-height: auto!important;
+        padding: 10px
+    }
+    .triangle-design2 {
+        margin-top: -30px
+    }
+    .flipboxStyle {
+        width: 800px
+    }
+    .flipboxStyle .item {
+        margin: 0 auto;
+        float: left
+    }
+    .lowerBorder_right {
+        width: 200px
+    }
+    .portfolioStyle {
+        width: 100%
+    }
+    .gridStyle2 .item.width1 {
+        float: left;
+        width: 70%
+    }
+    .gridStyle2 .portfolioStyle .width2,
+    .gridStyle2 .portfolioStyle .width3,
+    .gridStyle2 .portfolioStyle .width4,
+    .gridStyle2 .portfolioStyle .width5 {
+        width: 30%
+    }
+    .news_media .projects .service_single.full {
+        float: left;
+        margin: 0 0 0 1%;
+        width: 32%
+    }
+    .gridStyle2 .row.projects {
+        margin-top: 0
+    }
+    .container.smallcontainer {
+        width: 100%
+    }
+    .news_media .service_single .icon_holder .icon_shape {
+        height: 140px!important
+    }
+    .post.small_date .post_content .date_holder::before {
+        border-width: 0 60px 60px;
+        left: 30%;
+        bottom: 0
+    }
+    .post.small_date .post_content .date_holder::after {
+        border-width: 0 73px 73px;
+        left: 25%;
+        top: 3px
+    }
+    .about_wedding .wedding_slides {
+        left: -27px;
+        margin-left: 0
+    }
+    .getintouch input,
+    .getintouch input[type="submit"] {
+        display: inline-block;
+        margin-right: 1%;
+        width: 23%
+    }
+    #cboxContent .col-sm-6 {
+        width: 100%
+    }
+    .contact_form {
+        padding: 40px 10px
+    }
+    .contactForm .col-sm-6 {
+        width: 100%
+    }
+    .container {
+        width: 100%
+    }
+    .static_banner {
+        height: 545px;
+        overflow: hidden
+    }
+    .text_banner_holder1 {
+        border-width: 486px 470px 0 0!important;
+        left: 61%!important;
+        position: fixed!important;
+        top: 0!important
+    }
+    html .caption.lft.small_white strong {
+        font-family: "Italianno", cursive;
+        font-size: 47px;
+        font-weight: 700;
+        line-height: 37px;
+        margin-top: 5px;
+        position: relative;
+        top: 8px
+    }
+    html .caption.lft.small_white.start>span {
+        display: block;
+        font-size: 29px;
+        line-height: 26px
+    }
+    .menu-bar .logo {
+        background: url(../images/logo-bg.png) no-repeat scroll 0 0 / 97% auto rgba(0, 0, 0, 0);
+        float: left;
+        height: 300px;
+        margin: -37px 0 0!important;
+        position: absolute;
+        top: -110px;
+        width: 312px;
+        left: 13px
+    }
+    .sticky-wrapper.is-sticky .menu-bar {
+        height: 81px!important
+    }
+    .zee_curve_container .zee_curve_left {
+        left: -447px;
+        top: -107px;
+        transform: rotate(-21.7deg);
+        z-index: 903
+    }
+    .zee_curve_container .zee_curve_right {
+        bottom: -95px
+    }
+    .motif2 {
+        background: url(../images/media-bg.png) no-repeat scroll 10px 10px / 100% auto rgba(0, 0, 0, 0);
+        height: 534px;
+        margin-left: 57%;
+        margin-top: -100px;
+        overflow: visible;
+        position: absolute;
+        width: 614px;
+        z-index: 2147483647
+    }
+    .motif-circle {
+        width: 400px;
+        height: auto
+    }
+    .section_container .hgroup h2 {
+        font-size: 63px!important;
+        line-height: 60px!important
+    }
+    .menu-bar .main-nav ul li a {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 13px;
+        margin: 10px 1px 0;
+        padding: 25px 8px
+    }
+    .is-sticky li a {
+        padding: 9px 0
+    }
+    .mob-half-wid {
+        width: 100%;
+        margin-bottom: 0
+    }
+    .heading_wrap strong {
+        font-size: 50px!important;
+        line-height: 50px!important
+    }
+    .zee_curve_container .about_bg .zee_curve_right {
+        bottom: -214px!important;
+        right: -484px!important
+    }
+    #team .icon_shape {
+        height: 130px!important;
+        overflow: hidden;
+        width: 130px!important
+    }
+    #team .col-xs-12.heading_cover>h2 {
+        border-bottom: 1px solid #eee;
+        color: #215f9c;
+        font-size: 30px;
+        left: 33px;
+        position: absolute
+    }
+    .team_img {
+        border: 1px solid #eee;
+        height: auto;
+        overflow: hidden;
+        padding: 10px
+    }
+    .project_page .projects .service_single {
+        min-height: 446px!important
+    }
+    .proj-inner .static_banner {
+        height: 337px!important
+    }
+    .inner_pages_header .container>h2 {
+        color: #fff;
+        font-size: 23px;
+        font-weight: 300;
+        line-height: normal;
+        margin-left: 20px;
+        margin-top: 13%;
+        min-width: 396px;
+        position: absolute;
+        text-align: right;
+        text-transform: uppercase;
+        z-index: 99999999
+    }
+    .media_list>li {
+        float: left;
+        margin-right: 41px;
+        width: 21%
+    }
+    .about_wedding .motif2 {
+        background: url(../images/media-bg.png) no-repeat scroll 10px 10px / 100% auto rgba(0, 0, 0, 0);
+        height: 759px;
+        margin-left: 46%;
+        margin-top: -137px;
+        overflow: visible;
+        position: absolute;
+        width: 782px;
+        z-index: 2147483647
+    }
+    .about_wedding .service_single {
+        margin-bottom: 8px
+    }
+    .news-sec .col-sm-2 {
+        width: 30%
+    }
+}
+
+@media screen and (min-width:1200px) and (max-width:1290px) {
+    .text_banner_holder1 {
+        border-width: 792px 724px 0 0!important;
+        left: 44%!important;
+        position: fixed!important;
+        top: 0!important
+    }
+}
+
+@media screen and (min-width:1650px) and (max-width:1920px) {
+    .text_banner_holder1 {
+        border-width: 779px 846px 0 0!important;
+        left: 56%!important;
+        position: fixed!important;
+        top: 0!important
+    }
+    .text_banner_holder1 {
+        border-width: 929px 846px 0 0!important
+    }
+    html .caption.lft.small_white.start {
+        top: 610px!important
+    }
+    .slantdesign {
+        width: 44%
+    }
+    .contact_us .col-sm-7 {
+        width: 56%
+    }
+    .static_banner {
+        overflow: hidden
+    }
+    .services_section {
+        margin-bottom: 0
+    }
+    .tp-bullets.simplebullets.round {
+        bottom: 132px!important
+    }
+    .borderbox3::after {
+        background-position: center bottom
+    }
+    .projects .service_single.width1::after {
+        width: 100px
+    }
+}
+
+@media screen and (min-width:1400px) and (max-width:1650px) {
+    .text_banner_holder1 {
+        border-width: 879px 846px 0 0!important;
+        left: 56%!important;
+        position: fixed!important;
+        top: 0!important
+    }
+    .fullwidthbanner-container html .caption.lft.small_white.start {
+        top: 560px!important
+    }
+}
+
+.ie10 .section_holder.clearfix.celebrities {
+    height: 400px!important;
+    overflow: hidden
+}
+
+.ie10 .projects .service_single.full:hover {
+    border: 0 none!important;
+    transform: scale(1)!important;
+    padding-bottom: 0px!important;
+    margin-bottom: 0px!important;
+    min-height: 425px!important
+}
+
+.ie10 .project_page .projects .service_single {
+    margin-bottom: 0!important;
+    min-height: 425px!important;
+    padding-bottom: 0!important
+}
